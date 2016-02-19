@@ -32,3 +32,5 @@ Cet événement sera entièrement gratuit.
 
     <p>Pour en savoir plus : [www.salledesrancy.com/vie-citoyenne/](www.salledesrancy.com/vie-citoyenne/)</p>
 </section>
+
+<div class="clear"></div>

@@ -81,6 +81,10 @@ hr {
   margin: 1.6em 0;
 }
 
+.clear {
+  clear: both;
+}
+
 /* page header */
 
 .header {
@@ -295,9 +299,21 @@ footer .copy, footer .copy a {
 }
 
 .page section.info {
-  border: 1px solid green;
+  border: 1px solid #d6e9c6;
+  border-radius: 0.3em;
   float: left;
-  width: 48%;
+  width: 47%;
+}
+.page section.info header {
+  background-color: #dff0d8;
+  padding: 2% 4%;
+}
+.page section.info header h2 {
+  margin-bottom: 0;
+}
+.page section.info p {
+  padding: 2% 4%;
+  margin: 0;
 }
 .page section.info + section.info {
   margin-left: 4%;
@@ -452,4 +468,19 @@ code.lang-markdown .bullet {
   .page section.info + section.info {
     margin-left: 0;
   }
+}
+
+/* programme */
+.event header {
+  margin-bottom: 20px;
+}
+.event header h2 {
+  margin-bottom: 0;
+}
+.event header h2 small {
+  margin-left: 2em;
+  text-transform: uppercase;
+}
+.event header p {
+  margin-bottom: 0;
 }
