@@ -4,5 +4,10 @@
     "underscore": "1.4.x",
     "typogr": "0.5.x"
   },
-  "private": "true"
+  "private": "true",
+  "scripts": {
+    "start": "wintersmith preview",
+    "build": "wintersmith build",
+    "deploy": "git subtree push --prefix build origin pages"
+  }
 }
