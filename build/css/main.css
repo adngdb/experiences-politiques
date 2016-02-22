@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-  font-family: "Times New Roman", serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 18px;
   line-height: 1.52;
   background-color: #f8f8f8;
@@ -471,16 +471,55 @@ code.lang-markdown .bullet {
 }
 
 /* programme */
+.table-of-content {
+  display: table;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 50px;
+  width: 100%;
+}
+.table-of-content li {
+  display: table-cell;
+  text-align: center;
+}
+
+.event {
+  margin-bottom: 60px;
+}
 .event header {
   margin-bottom: 20px;
 }
 .event header h2 {
   margin-bottom: 0;
+  font-size: 1.1em;
+  position: relative;
 }
-.event header h2 small {
-  margin-left: 2em;
-  text-transform: uppercase;
+.event header h2 .title {
+  position: absolute;
+  font-size: 1.2em;
+  font-weight: bold;
+  left: 9em;
 }
 .event header p {
   margin-bottom: 0;
+}
+.event header .speakers {
+  float: right;
+  margin-bottom: 20px;
+}
+.event header .speakers div {
+  display: inline-block;
+  line-height: 1.1em;
+  text-align: center;
+  vertical-align: top;
+  width: 180px;
+}
+.event header .speakers img {
+  border-radius: 100px;
+}
+.event .summary {
+  font-style: italic;
+}
+.event .summary + p {
+  clear: both;
 }
