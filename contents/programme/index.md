@@ -28,7 +28,7 @@ template: page.jade
     <p class="summary">Conférence suivie de questions du public</p>
 
     <p>
-        État du système démocratique français, dans sa globalité. Quelles sont les limites de ce système ? Pourquoi échoue-t-il aujourd'hui ? D'où vient la « crise de la représentativité » ? Que veut dire le mot « démocratie » ?
+        La « crise de la représentativité », le désintérêt ou le sentiment d'impuissance face aux décisions politiques trouvent leurs sources, entre autres, dans les limites imposées par le système politique français. Quels constats établir aujourd'hui à propos d'une démocratie qui se questionne sur ses origines, ses dérives et ses échecs ? Et quels remèdes envisager ?
     </p>
 
     <p>
@@ -53,7 +53,7 @@ template: page.jade
     <p class="summary">Conférence suivie de questions du public</p>
 
     <p>
-        Dans le système actuel, de nombreux acteurs ne se laissent pas faire. Contrôle des représentants, primaire citoyenne, éducation populaire à la reprise du pouvoir politique, quelles sont les actions concrètes de résistance aujourd'hui ?
+        Dans un système appartenant aux partis et élites politiques, des initiatives proposent de contourner, d'affronter, d'inventer les règles du jeu… Ou juste de les appliquer strictement ! La résistance fait ainsi preuve d'une imagination foisonnante, utilisant les nouvelles technologies et les réseaux pour mobiliser différemment et se réapproprier les institutions.
     </p>
 
     <p>
@@ -78,7 +78,7 @@ template: page.jade
     <p class="summary">Diffusion d'un film sur le revenu de base, suivie d'une conférence puis de questions du public</p>
 
     <p>
-        Le revenu de base, parmi ses nombreuses vertus, est un outil fondamental pour la reprise du pouvoir par les citoyens. Comment la libération du monde de l'emploi peut-elle amener à un changement profond de notre paysage politique ?
+        Promu par des personnalités de tous horizons et de toutes sensibilités, le revenu de base, outre la liberté et l'égalité qu'il entraîne, permettrait l'affranchissement du monde de l'emploi. En quoi la fin du salariat imposé peut-elle amener à un changement profond de notre paysage politique ?
     </p>
 
     <p>
@@ -97,7 +97,7 @@ template: page.jade
             </div>
             <div>
                 <img src="img/qqn.png" alt="">
-                <span>Conseil de Quartier Moncey-Voltaire-Guichard</span>
+                <span>Serge Patural</span>
             </div>
             <div>
                 <img src="img/rechid.png" alt="">
@@ -111,12 +111,14 @@ template: page.jade
     <p class="summary">Diffusion du film documentaire « J'AI PAS VOTÉ », suivie d'un débat sur la démocratie participative</p>
 
     <p>
-        Le terme de « démocratie participative » englobe beaucoup de choses. Conseils de quartiers, budgets participatifs, assemblées citoyennes, implication des associations dans les décisions politiques, comment nous dirigeons-nous aujourd'hui vers plus de démocratie ?
+        La démocratie participative englobe aujourd'hui plusieurs réalités : conseils de quartier, assemblées citoyennes, budgets participatifs ou décisions politiques partagées. Entre ce qui existe et ce qui reste à inventer, comment se diriger vers une démocratie augmentée ?
     </p>
 
     <p><b>Loïc Blondiaux</b> est enseignant et chercheur en science politique, et travaille notamment sur la démocratie participative. Il dirige la revue [Participations](http://www.revue-participations.fr/) et le groupement d'intérêt scientifique « [démocratie et participation](http://www.participation-et-democratie.fr/) ». </p>
 
-    <p><b>Tristan Rechid</b> est membre du conseil des sages de Saillans, dont la municipalité élue en 2013 a mis en place un processus de gestion de la commune participatif. </p>
+    <p><b>Serge Patural</b> est membre du conseil de quartier Mutualité-Préfecture-Moncey à Lyon, conseil constitué de citoyens qui travaillent à l'amélioration du cadre de vie du 3e arrondissement. </p>
+
+    <p><b>Tristan Rechid</b> est membre du conseil des sages de Saillans, dont la municipalité élue en 2014 a mis en place un processus participatif de gestion de la commune. </p>
 
     <p><b>« J'AI PAS VOTÉ »</b> est un film documentaire de Moise Courilleau et Morgan Zahnd qui analyse les limites du système politique français et propose de nouvelles pistes d'organisation. </p>
 </section>
@@ -142,10 +144,10 @@ template: page.jade
     <p class="summary">Débat suivi de questions du public</p>
 
     <p>
-        Et si on allait plus loin ? Puisque le système pose problème, pourquoi ne pas en changer ? Quelles sont les propositions de systèmes politiques alternatifs proposées aujourd'hui, que résolvent-elles, et comment les mettre en place ?
+        Si notre système politique et démocratique présente des limites infranchissables, peut-être faut-il le repenser entièrement. Quels sont les systèmes politiques alternatifs proposés aujourd'hui, que résolvent-ils, et comment les mettre en place ?
     </p>
 
-    <p><b>Etienne Chouard</b> est professeur d'économie et blogueur. Il travaille sur la démocratie et l'importance du tirage au sort dans cele-ci, et milite pour la formation d'une assemblée constituante tirée au sort. </p>
+    <p><b>Etienne Chouard</b> est professeur d'économie et blogueur. Il travaille sur la démocratie et l'importance du tirage au sort dans celle-ci, et milite pour la formation d'une assemblée constituante tirée au sort. </p>
 
     <p><b>Jacques Testart</b> est biologiste spécialisé dans la reproduction des animaux et de l'homme. Il a récemment publié «&nbsp;L'humanitude au pouvoir&nbsp;», dans lequel il soutient que les citoyens sont aptes à prendre des décisions au nom de l’intérêt commun de l’humanité. </p>
 </section>
@@ -175,7 +177,7 @@ template: page.jade
     <p class="summary">Ateliers ouverts en continu</p>
 
     <p>
-        Jouer la démocratie, écrire une constitution, imaginer son revenu de base… Cette journée sera consacrée à l'expérimentation, la mise en situation, l'application concrète de solutions à nos problèmes politiques.
+        Après la théorie, la pratique ! Une journée pour expérimenter, mettre en situation, appliquer concrètement des solutions à nos problèmes politiques.
     </p>
 
     <p><b>Philippe Cazeneuve</b> animera l'atelier « [Mise en jeu de la démocratie](http://savoirenactes.info/2015/07/mise-en-jeu-de-la-democratie-atelier-experimental/) », dans lequel les participants sont invités à s'approprier un sujet de société, à en débattre et à faire des propositions autour de ce sujet. </p>
