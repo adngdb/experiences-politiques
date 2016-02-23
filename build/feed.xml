@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expériences Politiques</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="http://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://experiences-politiques.fr</link>
     <description>Une semaine d'événements autour de la Politique au sens noble</description>
     <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Le site des Expériences Politiques est ouvert !</title>
-      <link>http://localhost:8080/articles/le-site-est-ouvert/</link>
+      <link>http://experiences-politiques.fr/articles/le-site-est-ouvert/</link>
       <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/le-site-est-ouvert/</guid>
+      <guid isPermaLink="true">http://experiences-politiques.fr/articles/le-site-est-ouvert/</guid>
       <author></author>
       <description>&lt;p&gt;Bienvenue sur le nouveau site des Expériences Politiques. C’est un peu rustique sur les bords mais ça va s’améliorer. Une première version du programme est disponible, n’hésitez pas à le consulter !&lt;/p&gt;
 &lt;p&gt;Nous espérons vous voir nombreuses et nombreux pour cette première édition des Expériences Politiques. :)&lt;/p&gt;
