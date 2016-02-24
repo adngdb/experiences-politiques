@@ -34,7 +34,7 @@ template: page.jade
     </p>
 
     <p>
-        <b>Hervé Chaygneaud-Dupuy</b> a fondé et animé les [Ateliers de la Citoyenneté](http://www.ateliersdelacitoyennete.net/). Il écrit régulièrement sur la démocratie, notamment sur son blog [persopolitique](http://www.persopolitique.fr/).
+        <b>Hervé Chaygneaud-Dupuy</b> a fondé et animé les [Ateliers de la Citoyenneté](http://www.ateliersdelacitoyennete.net/). Il écrit régulièrement sur la démocratie, notamment sur son blog [persopolitique.fr](http://www.persopolitique.fr/).
     </p>
 </section>
 
