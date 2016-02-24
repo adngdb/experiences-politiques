@@ -13,6 +13,8 @@ template: page.jade
     <li><a href="#12-mars">Samedi 12</a></li>
 </ul>
 
+*Tous les évènements sont gratuits et en accès libre à l'exception de la soirée du vendredi 11 mars qui est sur réservation.*
+
 <section class="event">
     <header>
         <div class="speakers">
@@ -22,7 +24,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="7-mars">Lundi 7 mars <span class="title">Démocratie en transition</span></h2>
-        <p class="infos">18h30 - Salle des Rancy</p>
+        <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Conférence suivie de questions du public</p>
@@ -47,7 +49,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="8-mars">Mardi 8 mars <span class="title">Résistance</span></h2>
-        <p class="infos">18h30 - Salle des Rancy</p>
+        <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Conférence suivie de questions du public</p>
@@ -72,7 +74,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="9-mars">Mercredi 9 mars <span class="title">Revenu d'existence et politique</span></h2>
-        <p class="infos">20h - Salle Vendôme</p>
+        <p class="infos">20h - [Salle Vendôme](/infos/)</p>
     </header>
 
     <p class="summary">Diffusion d'un film sur le revenu de base, suivie d'une conférence puis de questions du public</p>
@@ -105,7 +107,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="10-mars">Jeudi 10 mars <span class="title">Démocratie participative</span></h2>
-        <p class="infos">19h - Salle des Rancy</p>
+        <p class="infos">19h - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Diffusion du film documentaire « J'AI PAS VOTÉ », suivie d'un débat sur la démocratie participative</p>
@@ -134,7 +136,7 @@ template: page.jade
             </div>
             <div>
                 <img src="img/testart.png" alt="">
-                <span>Jacques Testart<br><small>(sous réserve)</small></span>
+                <span>Jacques Testart</span>
             </div>
         </div>
         <h2 id="11-mars">Vendredi 11 mars <span class="title">Tirage au sort et démocratie</span></h2>
@@ -149,7 +151,7 @@ template: page.jade
 
     <p><b>Etienne Chouard</b> est professeur d'économie et blogueur. Il travaille sur la démocratie et l'importance du tirage au sort dans celle-ci, et milite pour la formation d'une assemblée constituante tirée au sort. </p>
 
-    <p><b>Jacques Testart</b> est biologiste spécialisé dans la reproduction des animaux et de l'homme. Il a récemment publié «&nbsp;L'humanitude au pouvoir&nbsp;», dans lequel il soutient que les citoyens sont aptes à prendre des décisions au nom de l’intérêt commun de l’humanité. </p>
+    <p><b>Jacques Testart</b> est biologiste spécialisé dans la reproduction des animaux et de l'homme. Il a récemment publié «&nbsp;[*L'humanitude au pouvoir*](http://www.seuil.com/livre-9782021219319.htm)&nbsp;», dans lequel il soutient que les citoyens sont aptes à prendre des décisions au nom de l’intérêt commun de l’humanité. </p>
 </section>
 
 <hr>
@@ -171,7 +173,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="12-mars">Samedi 12 mars <span class="title">Expériences</span></h2>
-        <p class="infos">de 14h à 18h - Salle des Rancy</p>
+        <p class="infos">de 14h à 18h - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Ateliers ouverts en continu</p>

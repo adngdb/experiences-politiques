@@ -173,6 +173,13 @@ footer .copy, footer .copy a {
   color: #8e8e8e;
 }
 
+/* index */
+p.introduction {
+  font-style: italic;
+  margin-top: 20px;
+  text-align: center;
+}
+
 /* article */
 
 .article {
@@ -522,4 +529,8 @@ code.lang-markdown .bullet {
 }
 .event .summary + p {
   clear: both;
+}
+
+iframe {
+  margin-bottom: 20px;
 }
