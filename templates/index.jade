@@ -17,13 +17,13 @@ block content
           != typogr(article.intro).typogrify()
         if article.hasMore
           p.more
-            a(href=article.url) more
+            a(href=article.url) lire la suite
 
 block prepend footer
   div.nav
     if prevPage
-      a(href=prevPage.url) « Newer
+      a(href=prevPage.url) « Page précédente
     else
       a(href='/archive.html') « Archives
     if nextPage
-      a(href=nextPage.url) Next page »
+      a(href=nextPage.url) Page suivante »

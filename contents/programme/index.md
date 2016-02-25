@@ -145,6 +145,8 @@ template: page.jade
 
     <p class="summary">Débat suivi de questions du public</p>
 
+    <p class="summary">**Attention**, cet évènement est sur réservation. [**Inscrivez-vous !**](https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916)</p>
+
     <p>
         Si notre système politique et démocratique présente des limites infranchissables, peut-être faut-il le repenser entièrement. Quels sont les systèmes politiques alternatifs proposés aujourd'hui, que résolvent-ils, et comment les mettre en place ?
     </p>

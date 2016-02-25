@@ -5,9 +5,22 @@
     <atom:link href="http://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://experiences-politiques.fr</link>
     <description>Une semaine d'événements autour de la Politique au sens noble</description>
-    <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
+    <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>La concertation dans les territoires au service de l'environnement</title>
+      <link>http://experiences-politiques.fr/articles/colloque-concertation-2016/</link>
+      <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://experiences-politiques.fr/articles/colloque-concertation-2016/</guid>
+      <author></author>
+      <description>&lt;p&gt;Les jeudi 10 et vendredi 11 mars 2016, entre trois conférences des Expériences Politiques, se tiendra à Lyon un colloque sur la concertation dans l’environnement.&lt;/p&gt;
+&lt;h2 id=&quot;dialogue-dans-les-territoires&quot;&gt;Dialogue dans les territoires&lt;/h2&gt;
+&lt;p&gt;Organisé par &lt;a href=&quot;http://www.comedie.org/&quot;&gt;Comédie&lt;/a&gt; et la &lt;a href=&quot;http://www.fondationdefrance.org/&quot;&gt;Fondation de France&lt;/a&gt;, cette rencontre sera l’occasion d’échanger entre acteurs de l’environnement dans de nombreux ateliers. Il y sera question d’écologie, d’agriculture, d’énergie, de nature, d’urbanisme… Nous vous invitons à consulter &lt;a href=&quot;http://www.comedie.org/rencontre/programme.php&quot;&gt;leur programme&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.comedie.org/rencontre2016.php&quot;&gt;&lt;img src=&quot;http://www.comedie.org/images/temp/concertation%27.jpg&quot; alt=&quot;La concertation sert-elle l&amp;#39;environnement ?&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Toutes les informations sur ce colloque sont sur le site de Comédie : &lt;a href=&quot;http://www.comedie.org/rencontre2016.php&quot;&gt;La concertation dans les territoires au service de l’environnement&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Le site des Expériences Politiques est ouvert !</title>
       <link>http://experiences-politiques.fr/articles/le-site-est-ouvert/</link>
