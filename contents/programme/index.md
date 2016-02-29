@@ -140,7 +140,7 @@ template: page.jade
             </div>
         </div>
         <h2 id="11-mars">Vendredi 11 mars <span class="title">Tirage au sort et démocratie</span></h2>
-        <p class="infos">19h - Lieu à annoncer</p>
+        <p class="infos">19h - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Débat suivi de questions du public</p>
