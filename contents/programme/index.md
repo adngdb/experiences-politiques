@@ -103,7 +103,7 @@ template: page.jade
             </div>
             <div>
                 <img src="img/rechid.png" alt="">
-                <span>Tristan Rechid<br><small>(sous réserve)</small></span>
+                <span>Tristan Rechid</span>
             </div>
         </div>
         <h2 id="10-mars">Jeudi 10 mars <span class="title">Démocratie participative</span></h2>
@@ -145,7 +145,7 @@ template: page.jade
 
     <p class="summary">Débat suivi de questions du public</p>
 
-    <p class="summary">**Attention**, cet évènement est sur réservation. [**Inscrivez-vous !**](https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916)</p>
+    <p class="summary">**Attention**, cet évènement était sur réservation, il est désormais en accès libre (nous avons trouvé une plus grande salle). </p>
 
     <p>
         Si notre système politique et démocratique présente des limites infranchissables, peut-être faut-il le repenser entièrement. Quels sont les systèmes politiques alternatifs proposés aujourd'hui, que résolvent-ils, et comment les mettre en place ?
