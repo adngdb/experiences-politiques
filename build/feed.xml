@@ -5,13 +5,26 @@
     <atom:link href="http://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://experiences-politiques.fr</link>
     <description>Une semaine d'événements autour de la Politique au sens noble</description>
-    <pubDate>Sat, 21 May 2016 02:00:00 +0200</pubDate>
+    <pubDate>Thu, 01 Dec 2016 11:00:00 +1100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Les Expériences Politiques reviennent en 2017</title>
+      <link>http://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</link>
+      <pubDate>Thu, 01 Dec 2016 11:00:00 +1100</pubDate>
+      <guid isPermaLink="true">http://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</guid>
+      <author></author>
+      <description>&lt;p&gt;Nous avons le plaisir de vous annoncer que les Expériences Politiques seront de retour en 2017, et auront lieu du 6 au 11 mars à la &lt;a href=&quot;http://www.salledesrancy.com/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;au-programme-de-l-dition-2017&quot;&gt;Au programme de l’édition 2017&lt;/h2&gt;
+&lt;p&gt;Nous sommes en train de travailler sur le programme, et nous en annoncerons ici-même le contenu dès qu’il sera prêt. En attendant, on peut déjà vous annoncer qu’on parlera de démocratie, d’élections, d’organisation politique alternative, de revenu de base, d’assemblées citoyennes, et de beaucoup d’autres choses encore.&lt;/p&gt;
+&lt;p&gt;Nous souhaitons cette année mettre en relation les participants avec des acteurs locaux engagés dans la remise en cause de notre système politique. Cela se fera au travers de conférences et de débats, mais également lors de la journée du samedi où nous invitons ces acteurs à venir à la rencontre de notre public.&lt;/p&gt;
+&lt;p&gt;Réservez votre semaine ! :)&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Les Vidéos des Expériences Politiques 2016</title>
       <link>http://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</link>
-      <pubDate>Sat, 21 May 2016 02:00:00 +0200</pubDate>
+      <pubDate>Sat, 21 May 2016 11:00:00 +1100</pubDate>
       <guid isPermaLink="true">http://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</guid>
       <author></author>
       <description>&lt;p&gt;Vous n’avez pas pu assister aux Expériences Politiques 2016 ? Vous avez raté une soirée que vous teniez à voir ? Vous voulez revoir une intervention que vous avez aimée ? Vous voulez que vos amis puissent eux aussi profiter du contenu de cette incroyable semaine ? Réjouissez-vous : tout a été filmé, et les vidéos sont désormais accessibles en ligne !&lt;/p&gt;
@@ -53,7 +66,7 @@
     <item>
       <title>De nouvelles places pour vendredi 11 mars</title>
       <link>http://experiences-politiques.fr/articles/chouard-testart-acces-libre/</link>
-      <pubDate>Thu, 10 Mar 2016 01:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Mar 2016 11:00:00 +1100</pubDate>
       <guid isPermaLink="true">http://experiences-politiques.fr/articles/chouard-testart-acces-libre/</guid>
       <author></author>
       <description>&lt;p&gt;Le débat du vendredi 11 mars entre Etienne Chouard et Jacques Testart dispose désormais d’un bien plus grand nombre de places ! Nous avons obtenu une plus grande salle à la Maison Pour Tous, qui devrait être à même de vous accueillir toutes et tous. &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;Inscrivez-vous&lt;/a&gt; !&lt;/p&gt;
@@ -65,7 +78,7 @@
     <item>
       <title>Vendredi 11 mars sur réservation</title>
       <link>http://experiences-politiques.fr/articles/11-mars-chouard-testart/</link>
-      <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 26 Feb 2016 11:00:00 +1100</pubDate>
       <guid isPermaLink="true">http://experiences-politiques.fr/articles/11-mars-chouard-testart/</guid>
       <author></author>
       <description>&lt;p&gt;Le vendredi 11 mars, nous aurons le plaisir de recevoir Etienne Chouard et Jacques Testart pour un débat autour du tirage au sort et des assemblées citoyennes. Cet évènement est sur &lt;strong&gt;réservation obligatoire&lt;/strong&gt;, &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;inscrivez-vous&lt;/a&gt; !&lt;/p&gt;
@@ -76,7 +89,7 @@
     <item>
       <title>La concertation dans les territoires au service de l'environnement</title>
       <link>http://experiences-politiques.fr/articles/colloque-concertation-2016/</link>
-      <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 26 Feb 2016 11:00:00 +1100</pubDate>
       <guid isPermaLink="true">http://experiences-politiques.fr/articles/colloque-concertation-2016/</guid>
       <author></author>
       <description>&lt;p&gt;Les jeudi 10 et vendredi 11 mars 2016, entre trois conférences des Expériences Politiques, se tiendra à Lyon un colloque sur la concertation dans l’environnement.&lt;/p&gt;
@@ -89,7 +102,7 @@
     <item>
       <title>Le site des Expériences Politiques est ouvert !</title>
       <link>http://experiences-politiques.fr/articles/le-site-est-ouvert/</link>
-      <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 19 Feb 2016 11:00:00 +1100</pubDate>
       <guid isPermaLink="true">http://experiences-politiques.fr/articles/le-site-est-ouvert/</guid>
       <author></author>
       <description>&lt;p&gt;Bienvenue sur le site des Expériences Politiques ! Le &lt;a href=&quot;http://experiences-politiques.fr/programme/&quot;&gt;programme&lt;/a&gt; est disponible, n’hésitez pas à le consulter. Nous espérons vous voir nombreuses et nombreux pour cette première édition des Expériences Politiques. :)&lt;/p&gt;

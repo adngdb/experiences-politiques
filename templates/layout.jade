@@ -19,7 +19,7 @@ html(lang='en')
           div.logo
             h1
               a(href=locals.url) Expériences Politiques
-            p.description du 7 au 12 mars 2016 à Lyon
+            p.description du 6 au 11 mars 2017 à Lyon
 
     nav.navigation
       a(class='menuitem', href='/programme/') Programme
@@ -38,7 +38,9 @@ html(lang='en')
           section.about
             !=contents['about.md'].html
           section.copy
-            p Expériences Politiques 2016 &mdash;&nbsp;
+            p Expériences Politiques &mdash;&nbsp;
+              a(href='/archives/') archives
+              span &nbsp;&mdash;&nbsp;
               a(href='https://github.com/adngdb/experiences-politiques') sources
               span &nbsp;&mdash; powered by&nbsp;
               a(href='https://github.com/jnordberg/wintersmith') Wintersmith
