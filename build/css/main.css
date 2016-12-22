@@ -309,7 +309,12 @@ p.introduction {
   border: 1px solid #d6e9c6;
   border-radius: 0.3em;
   float: left;
+  margin-top: 60px;
   width: 47%;
+}
+.page section.info.full {
+  float: none;
+  width: 100%;
 }
 .page section.info header {
   background-color: #dff0d8;
@@ -317,6 +322,13 @@ p.introduction {
 }
 .page section.info header h2 {
   margin-bottom: 0;
+}
+.page section.info header h2 span {
+  color: green;
+  font-size: 0.6em;
+  text-transform: uppercase;
+  float: right;
+  font-weight: bold;
 }
 .page section.info p {
   padding: 2% 4%;
