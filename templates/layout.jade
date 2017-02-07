@@ -18,15 +18,22 @@ html(lang='en')
         block header
           div.logo
             h1
-              a(href=locals.url) Expériences Politiques
+              a(href=locals.url)
+                img(src='/img/logo.png', alt='Expériences Politiques')
             p.description du 6 au 11 mars 2017 à Lyon
 
     nav.navigation
-      a(class='menuitem', href='/programme/') Programme
-      a(class='menuitem', href='/a-propos/') À Propos
-      a(class='menuitem', href='/infos/') Infos Pratiques
-      a(class='menuitem', href='/medias/') Médias
-      a(class='menuitem', href='/benevoles/') Devenir Bénévole
+      ul
+        li
+          a(class='menuitem', href='/programme/') Programme
+        li
+          a(class='menuitem', href='/a-propos/') À Propos
+        li
+          a(class='menuitem', href='/infos/') Infos Pratiques
+        li
+          a(class='menuitem', href='/medias/') Médias
+        li
+          a(class='menuitem', href='/benevoles/') Devenir Bénévole
 
     div#content
       div.content-wrap

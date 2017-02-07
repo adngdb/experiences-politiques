@@ -88,7 +88,8 @@ hr {
 /* page header */
 
 .header {
-  margin: 2em 0;
+  background-color: #f1ecec;
+  padding: 2em 0;
 }
 
 .header h1 {
@@ -117,6 +118,7 @@ hr {
   font-size: 1.2em;
   font-style: italic;
   text-align: center;
+  margin: 0;
   margin-top: -0.3em;
 }
 
@@ -127,7 +129,17 @@ nav.navigation {
   padding: 10px 0;
 }
 nav.navigation a {
-  margin: 0 10px;
+  padding: 10px;
+}
+nav.navigation ul {
+  margin: 0;
+}
+nav.navigation li {
+  display: inline;
+}
+nav.navigation li + li:before {
+  color: grey;
+  content: '~';
 }
 
 /* page footer */
