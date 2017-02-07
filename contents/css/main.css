@@ -524,14 +524,17 @@ code.lang-markdown .bullet {
 }
 .event header .speakers {
   float: right;
-  margin-bottom: 20px;
+  margin: 0 0 20px 20px;
+  width: 160px;
 }
 .event header .speakers div {
   display: inline-block;
+  font-style: italic;
   line-height: 1.1em;
+  padding-bottom: 10px;
   text-align: center;
   vertical-align: top;
-  width: 180px;
+  width: 160px;
 }
 .event header .speakers img {
   border-radius: 100px;
@@ -539,7 +542,7 @@ code.lang-markdown .bullet {
 .event .summary {
   font-style: italic;
 }
-.event .summary + p {
+.event + hr {
   clear: both;
 }
 

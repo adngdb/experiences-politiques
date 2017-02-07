@@ -7,6 +7,8 @@ template: page.jade
 
 Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, un débat ou une projection, suivi d'interactions avec le public. Le samedi 11 mars aura lieu une journée d'expérimentations et de mise en contact avec des acteurs locaux de la politique.
 
+<hr>
+
 <ul class="table-of-content">
     <li><i>Accès rapide : </i></li>
     <li><a href="#2017-lundi">Lundi 6</a></li>
@@ -19,14 +21,10 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
 
 *Tous les évènements sont gratuits et en accès libre à l'exception de la soirée du jeudi 9 mars qui est à prix libre.*
 
+<hr>
+
 <section class="event">
     <header>
-        <div class="speakers">
-            <div>
-                <img src="img/knutsen.png" alt="Portrait de Jean-Michel Knutsen">
-                <span>Jean-Michel Knutsen</span>
-            </div>
-        </div>
         <h2 id="2017-lundi">Lundi 6 mars <span class="title">Transformer la colère en action</span></h2>
         <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
@@ -34,11 +32,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     <p class="summary">Débat suivi de questions du public</p>
 
     <p>
-
-    </p>
-
-    <p>
-        <b>Jean-Michel Knutsen</b> est organisateur au sein de Citizens UK.
+        Comment transformer la colère des citoyens en action concrète pour agir sur notre monde ? Le Community Organizing, méthodologie originaire des États-Unis et formalisée dans les années 1940 par Saul Alinski, s'y essaye avec succès au Royaume Uni et depuis quelques années en France.
     </p>
 </section>
 
@@ -46,49 +40,29 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
 
 <section class="event">
     <header>
-        <div class="speakers">
-            <div>
-                <img src="img/sauze.png" alt="Portrait de Pierre Sauze">
-                <span>Pierre Sauze</span>
-            </div>
-        </div>
         <h2 id="2017-mardi">Mardi 7 mars <span class="title">Pouvoir d'agir en entreprise</span></h2>
+        <p class="infos">19h00 - [Salle des Rancy](/infos/)</p>
+    </header>
+
+    <p class="summary">Débat suivi de questions du public</p>
+
+    <p>
+        Dans quelle mesure la démocratie s'exprime-t-elle dans la sphère professionnelle ? Lors de cette table ronde, à travers diverses expériences, vous découvrirez des  exemples locaux d'organisation du travail où le salarié (ou entrepreneur) dispose d'un pouvoir d'agir. Les témoignages concrets de ces acteurs ouvriront l'échange avec le public.
+    </p>
+</section>
+
+<hr>
+
+<section class="event">
+    <header>
+        <h2 id="2017-mercredi">Mercredi 8 mars <span class="title">Retours d'expérience de mouvements citoyens</span></h2>
         <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Débat suivi de questions du public</p>
 
     <p>
-
-    </p>
-
-    <p>
-        <b>Pierre Sauze</b> est membre de la SCOP [De l'Autre Côté de la rue](http://www.delautrecotedelarue.net/nouveau/).
-    </p>
-</section>
-
-<hr>
-
-<section class="event">
-    <header>
-        <div class="speakers">
-            <div>
-                <img src="img/mylondo.png" alt="">
-                <span></span>
-            </div>
-        </div>
-        <h2 id="2017-mercredi">Mercredi 8 mars <span class="title">Retours d'expérience de mouvements citoyens</span></h2>
-        <p class="infos">20h - [Salle Vendôme](/infos/)</p>
-    </header>
-
-    <p class="summary">Débat suivi de questions du public</p>
-
-    <p>
-
-    </p>
-
-    <p>
-        <b>Baptiste Mylondo</b> est enseignant-chercheur en économie et philosophie politique. Il est l'auteur de plusieurs ouvrages sur le revenu d'existence, et milite pour la décroissance.
+        Ces dernières années, plusieurs exemples d'émancipation politique ont vu le jour : quels sont-ils ? Que font-ils ? Pour ce débat, nous accueillons quelques uns d'entre eux pour un retour auto-critique de cette expérience : quels sont les freins et leviers de l'action (objectifs, méthodes, résultats) ? Quels sont les différences et points communs entre ces mouvements ? Comment s'y investir concrètement ? Quels sont les projets à venir ? Le public pourra échanger librement sur ces questions au cours de la soirée.
     </p>
 </section>
 
@@ -102,80 +76,47 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
                 <span>Alexis Lecointe</span>
             </div>
         </div>
-        <h2 id="2017-jeudi">Jeudi 9 mars <span class="title">Des revenus de base</span></h2>
-        <p class="infos">19h à 22h - [Salle des Rancy](/infos/)</p>
+        <h2 id="2017-jeudi">Jeudi 9 mars <span class="title">Travail libre, revenus de base et autres rêvolutions</span></h2>
+        <p class="infos">18h30 à 21h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
-    <p class="summary">Conférence gesticulée avec entracte</p>
+    <p class="summary">Conférence gesticulée proposée en association avec le [festival Lâcher de Gesticules à Lyon](http://festiconfslyon.fr)</p>
 
     <p>
+        Un revenu inconditionnel, est-ce totalement utopique ? Comment le financer ? Quelles sont les différentes propositions ? Changement de paradigme ou roue de secours du Capitalisme ? Alexis Lecointe essaiera de répondre à ces questions au sein d'un espace de vie, de jeu, de débat, à mi-chemin entre la conférence et le théâtre.
     </p>
 
-    <p><b>Alexis Lecointe</b> est retraité. </p>
+    <p><b>Alexis Lecointe</b> est un retraité de 34 ans, conférencier et animateur d'ateliers. </p>
 </section>
 
 <hr>
 
 <section class="event">
     <header>
-        <div class="speakers">
-            <div>
-                <img src="img/chamard.png" alt="">
-                <span>Nadine Chamard</span>
-            </div>
-            <div>
-                <img src="img/demoulin.png" alt="">
-                <span>Jeanne Demoulin</span>
-            </div>
-        </div>
-        <h2 id="2017-vendredi">Vendredi 10 mars <span class="title">Des listes participatives à Lyon en 2020 ?</span></h2>
+        <h2 id="2017-vendredi">Vendredi 10 mars <span class="title">Savoir citoyen, pouvoir citoyen</span></h2>
         <p class="infos">19h - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Débat suivi de questions du public</p>
 
     <p>
-
+        Et si on présentait des listes participatives aux élections municipales de 2020 ? L'idée, inspirée du modèle de Saillans, est séduisante, et la recherche sur les savoirs citoyens et l'empowerment semble la valider. Alors, comment le faire concrètement ? Et quels sont les pièges à éviter ?
     </p>
-
-    <p><b>Nadine Chamard</b> est citoyenne participante au collectif La Belle Démocratie. </p>
-
-    <p><b>Jeanne Demoulin</b> est chercheuse. </p>
 </section>
 
 <hr>
 
 <section class="event">
     <header>
-        <div class="speakers">
-            <div>
-                <img src="img/cazeneuve.png" alt="">
-                <span>Philippe Cazeneuve</span>
-            </div>
-            <div>
-                <img src="img/gentils-virus.png" alt="">
-                <span>Les Gentils Virus</span>
-            </div>
-            <div>
-                <img src="img/mfrb.png" alt="">
-                <span>Mouvement Français pour un Revenu de Base</span>
-            </div>
-        </div>
-        <h2 id="2017-samedi">Samedi 11 mars <span class="title">Expériences</span></h2>
+        <h2 id="2017-samedi">Samedi 11 mars <span class="title">Expérimentations Politiques</span></h2>
         <p class="infos">de 14h à 18h - [Salle des Rancy](/infos/)</p>
     </header>
 
-    <p class="summary">Ateliers ouverts en continu</p>
+    <p class="summary">Ateliers ouverts en continu et village associatif</p>
 
     <p>
         Après la théorie, la pratique ! Une journée pour expérimenter, mettre en situation, appliquer concrètement des solutions à nos problèmes politiques.
     </p>
-
-    <p><b>Philippe Cazeneuve</b> animera l'atelier « [Mise en jeu de la démocratie](http://savoirenactes.info/2015/07/mise-en-jeu-de-la-democratie-atelier-experimental/) », dans lequel les participants sont invités à s'approprier un sujet de société, à en débattre et à faire des propositions autour de ce sujet. </p>
-
-    <p>Les <b>Gentils Virus</b> animeront un atelier constituant, durant lequel les participants s'entraineront à écrire des morceaux de constitutions autour d'un sujet déterminé. L'occasion de constater que nous sommes toutes et tous à même d'écrire notre constitution. </p>
-
-    <p>Le <b>Mouvement Français pour un Revenu de Base</b> animera un atelier de réflexion sur le revenu de base. Les participants auront à composer leur propre version du revenu de base, à en définir les règles et le fonctionnement, et à défendre leur version devant un panel d'experts. </p>
 </section>
 
 <section class="info full">
