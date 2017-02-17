@@ -123,12 +123,15 @@ hr {
 
 /* page navigation */
 nav.navigation {
-  text-align: center;
+  text-align: left;
   background-color: #ddd;
   padding: 10px 0;
 }
-nav.navigation a {
+nav.navigation .menuitem a {
   padding: 10px;
+}
+nav.navigation .menuitem li:first-child a {
+  padding-left: 0;
 }
 nav.navigation ul {
   margin: 0;
@@ -136,9 +139,12 @@ nav.navigation ul {
 nav.navigation li {
   display: inline;
 }
-nav.navigation li + li:before {
+nav.navigation .menuitem li + li:before {
   color: grey;
   content: '~';
+}
+nav.navigation .social {
+  float: right;
 }
 
 /* page footer */
