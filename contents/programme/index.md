@@ -3,8 +3,6 @@ title: Programme
 template: page.jade
 ---
 
-**Le programme de l'édition 2017 est en cours de construction.**
-
 Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, un débat ou une projection, suivi d'interactions avec le public. Le samedi 11 mars aura lieu une journée d'expérimentations et de mise en contact avec des acteurs locaux de la politique.
 
 <hr>
@@ -19,7 +17,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     <li><a href="#2017-samedi">Samedi 11</a></li>
 </ul>
 
-*Tous les évènements sont gratuits et en accès libre à l'exception de la soirée du jeudi 9 mars qui est à prix libre.*
+*Tous les évènements sont gratuits et en accès libre à l'exception de la soirée du jeudi 9 mars qui est sur réservation et à prix libre.*
 
 <hr>
 
@@ -35,7 +33,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
                 <span>Jean-Michel Knutsen</span>
             </div>
         </div>
-        <h2 id="2017-lundi">Lundi 6 mars <span class="title">Transformer la colère en action</span></h2>
+        <h2 id="2017-lundi">Lundi 6 mars <span class="title">Transformer la colère en action collective</span></h2>
         <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
@@ -107,7 +105,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
             </div>
         </div>
         <h2 id="2017-mercredi">Mercredi 8 mars <span class="title">Retours d'expérience de mouvements citoyens</span></h2>
-        <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
+        <p class="infos">19h - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Débat suivi de questions du public</p>
@@ -136,11 +134,13 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
         <p class="infos">18h30 à 21h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
-    <p class="summary">Conférence gesticulée proposée en association avec le [festival Lâcher de Gesticules à Lyon](http://festiconfslyon.fr) - **réservation obligatoire** sur [festiconfslyon.fr](http://festiconfslyon.fr) (prix libre à l'entrée)</p>
+    <p class="summary">Conférence gesticulée proposée en association avec le [festival Lâcher de Gesticules à Lyon](http://festiconfslyon.fr) - entracte et petite restauration payante sur place par [la Cuisine Itinérante](http://cuisineitinerante.com/)</p>
 
     <p>
         Un revenu inconditionnel, est-ce totalement utopique ? Comment le financer ? Quelles sont les différentes propositions ? Changement de paradigme ou roue de secours du Capitalisme ? Le gesticulant essaiera de répondre à ces questions au sein d'un espace de vie, de jeu, de débat, à mi-chemin entre la conférence et le théâtre.
     </p>
+
+    <p>Sur **réservation obligatoire** sur [festiconfslyon.fr](http://festiconfslyon.fr/events/travail-libre-revenus-de-base/) (prix libre à l'entrée).</p>
 
     <p><b>Alexis Lecointe</b> est un retraité de 34 ans, conférencier et animateur d'ateliers. </p>
 </section>
@@ -160,7 +160,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
             </div>
         </div>
         <h2 id="2017-vendredi">Vendredi 10 mars <span class="title">Savoir citoyen, pouvoir citoyen</span></h2>
-        <p class="infos">19h - [Salle des Rancy](/infos/)</p>
+        <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">Débat suivi de questions du public</p>
@@ -173,6 +173,10 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     <p><b>Jeanne Demoulin</b> est chercheuse en urbanisme à l'université Paris Ouest, et auteure d'une thèse sur la participation en milieu urbain.</p>
 
     <p>*Pour continuer sur ce thème, la MPT accueillera une conférence le vendredi 19 mai en soirée puis une formation les samedi 20 et dimanche 21 mai. Elles seront animées par Tristan Rechid, membre du conseil des sages de Saillans, municipalité qui a mis en place un processus de gestion participatif de la commune après l'élection en 2014 de la liste citoyenne Autrement pour Saillans. Informations et inscriptions à venir, sur ce site.*</p>
+
+    <h4>Conseil des enfants</h4>
+
+    <p>L'après-midi aura lieu l'élection du Conseil des enfants avec le secteur Enfance de la Maison Pour Tous. À 17h : affichage des programmes des candidats, puis à 18h : annonce du groupe élu. </p>
 </section>
 
 <hr>
