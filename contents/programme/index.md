@@ -59,12 +59,12 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
                 <span>Florence Martin</span>
             </div>
             <div>
-                <img src="img/sauze.png" alt="Portrait de Pierre Sauze">
-                <span>Pierre Sauze</span>
-            </div>
-            <div>
                 <img src="img/rizzo.png" alt="Portrait de Charlotte Rizzo">
                 <span>Charlotte Rizzo</span>
+            </div>
+            <div>
+                <img src="img/sauze.png" alt="Portrait de Pierre Sauze">
+                <span>Pierre Sauze</span>
             </div>
         </div>
         <h2 id="2017-mardi">Mardi 7 mars <span class="title">Pouvoir d'agir au travail, expériences vécues</span></h2>
@@ -78,8 +78,8 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     </p>
 
     <p><b>Florence Martin</b> est présidente de la <abbr title="Société Coopérative d'Intérêt Collectif">SCIC</abbr> [Enercoop Rhône-Alpes](http://rhone-alpes.enercoop.fr/), fournisseur d'énergie renouvelable.</p>
-    <p><b>Pierre Sauze</b> est membre de la SCOP [De l'Autre Côté de la rue](http://www.delautrecotedelarue.net/nouveau/), épicerie de produits locaux, bio et/ou issus du commerce équitable.</p>
     <p><b>Charlotte Rizzo</b> est membre du collectif [la MYNE](http://www.lamyne.org/), Espace de liberté et d'expérimentation de projets citoyens innovants.</p>
+    <p><b>Pierre Sauze</b> est membre de la SCOP [De l'Autre Côté de la rue](http://www.delautrecotedelarue.net/nouveau/), épicerie de produits locaux, bio et/ou issus du commerce équitable.</p>
 </section>
 
 <hr>
