@@ -43,7 +43,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
         Comment transformer la colère des citoyens en action concrète pour agir sur notre monde ? Le *Community Organizing*, méthodologie originaire des États-Unis et formalisée dans les années 1940 par Saul Alinski, s'y essaye avec succès au Royaume Uni et depuis quelques années en France.
     </p>
 
-    <p><b>Marielle Benchehboune</b> est membre de l'association [ReAct](http://www.projet-react.org/fr/) à Lyon, et ancienne participante à l'[Alliance Citoyenne](https://alliancecitoyenne.org/) à Grenoble.</p>
+    <p><b>Marielle Benchehboune</b> est organisatrice syndicale à Lyon, et ancienne participante à l'[Alliance Citoyenne](https://alliancecitoyenne.org/) à Grenoble.</p>
     <p><b>Jean-Michel Knutsen</b> est organisateur au sein de [Citizens UK](http://www.citizensuk.org/), principal collectif de Community Organizing au Royaume Uni.</p>
 
     <p>*Pour aller plus loin sur ce thème, l'association [Tabadol](http://www.tabadol.org/) organise une formation « Construire les intelligences citoyennes » du 6 au 8 juin 2017, toutes les informations sur [tabadol.org](http://www.tabadol.org/formations)*.</p>
