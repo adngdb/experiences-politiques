@@ -151,8 +151,8 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     <header>
         <div class="speakers">
             <div>
-                <img src="img/chamard.png" alt="Portrait de Nadine Chamard">
-                <span>Nadine Chamard</span>
+                <img src="img/chamard.png" alt="Portrait de Nadine Chamard-Coquaz">
+                <span>Nadine Chamard-Coquaz</span>
             </div>
             <div>
                 <img src="img/demoulin.png" alt="Portrait de Jeanne Demoulin">
@@ -169,7 +169,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
         Et si on présentait des listes participatives aux élections municipales de 2020 ? L'idée, inspirée du modèle de Saillans, est séduisante, et la recherche sur les savoirs citoyens et l'empowerment semble la valider. Alors, comment le faire concrètement ? Et quels sont les pièges à éviter ?
     </p>
 
-    <p><b>Nadine Chamard</b> est membre de [La Belle Démocratie](http://www.labelledemocratie.fr/), collectif d'associations et d'acteurs autour de la démocratie.</p>
+    <p><b>Nadine Chamard-Coquaz</b> est membre de [La Belle Démocratie](http://www.labelledemocratie.fr/), collectif d'associations et d'acteurs autour de la démocratie.</p>
     <p><b>Jeanne Demoulin</b> est chercheuse en urbanisme à l'université Paris Ouest, et auteure d'une thèse sur la participation en milieu urbain.</p>
 
     <p>*Pour continuer sur ce thème, la MPT accueillera une conférence le vendredi 19 mai en soirée puis une formation les samedi 20 et dimanche 21 mai. Elles seront animées par Tristan Rechid, membre du conseil des sages de Saillans, municipalité qui a mis en place un processus de gestion participatif de la commune après l'élection en 2014 de la liste citoyenne Autrement pour Saillans. Informations et inscriptions à venir, sur ce site.*</p>
@@ -226,6 +226,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
         <li>[Nuit Debout](https://nuitdebout.fr/)
         <li>[PasSansNous](https://www.passansnous.org/)
         <li>[Piratons 2017](https://piratons2017.com/)
+        <li>[Relève Citoyenne](http://relevecitoyenne.org/)
     </ul>
 
 </section>
