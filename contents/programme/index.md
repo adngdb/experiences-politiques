@@ -172,7 +172,7 @@ Du lundi 6 mars au vendredi 10 mars, tous les soirs aura lieu une conférence, u
     <p><b>Nadine Chamard-Coquaz</b> est membre de [La Belle Démocratie](http://www.labelledemocratie.fr/), collectif d'associations et d'acteurs autour de la démocratie.</p>
     <p><b>Jeanne Demoulin</b> est chercheuse en urbanisme à l'université Paris Ouest, et auteure d'une thèse sur la participation en milieu urbain.</p>
 
-    <p>*Pour continuer sur ce thème, la MPT accueillera une conférence le vendredi 19 mai en soirée puis une formation les samedi 20 et dimanche 21 mai. Elles seront animées par Tristan Rechid, membre du conseil des sages de Saillans, municipalité qui a mis en place un processus de gestion participatif de la commune après l'élection en 2014 de la liste citoyenne Autrement pour Saillans. Informations et inscriptions à venir, sur ce site.*</p>
+    <p>*Pour continuer sur ce thème, la MPT accueillera une conférence le vendredi 19 mai en soirée puis une formation les samedi 20 et dimanche 21 mai. Elles seront animées par Tristan Rechid, membre du conseil des sages de Saillans, municipalité qui a mis en place un processus de gestion participatif de la commune après l'élection en 2014 de la liste citoyenne Autrement pour Saillans. [Informations ici](/articles/formation-animation-democratie-locale-rechid/) et inscriptions auprès de la Maison Pour Tous.*</p>
 
     <h4>Conseil des enfants</h4>
 
