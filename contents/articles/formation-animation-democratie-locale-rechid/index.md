@@ -34,6 +34,6 @@ La formation se déroulera sur deux jours complets, les samedi et dimanche 20 et
 
 ## Inscriptions
 
-Les inscriptions se font auprès de la Maison Pour Tous, soit directement à l'accueil de la MJC, soit par téléphone au [04 78 60 64 01](tel:+33478606401), soit par email à [accueil@salledesrancy.com](mailto:accueil@salledesrancy.com).
+Les inscriptions se font auprès de la Maison Pour Tous **jusqu'au lundi 17 avril**, soit directement à l'accueil de la MJC, soit par téléphone au [04 78 60 64 01](tel:+33478606401), soit par email à [accueil@salledesrancy.com](mailto:accueil@salledesrancy.com).
 
 *Notez qu'il est important que vous puissiez participer aux deux jours de formation. Également, les places étant limitées, merci de nous prévenir le plus rapidement possible en cas d'annulation de votre part.*
