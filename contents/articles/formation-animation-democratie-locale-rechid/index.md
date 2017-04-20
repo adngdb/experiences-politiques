@@ -7,8 +7,6 @@ template: article.jade
 
 Et si on reprenait notre pouvoir à l'échelle locale ? C'est ce qu'ont fait les habitants de la ville de Saillans, dans la Drôme, en 2014. Depuis, ils expérimentent de nouvelles formes de relations entre citoyens et élus, en s'appuyant notamment sur les outils de l'éducation populaire. Les Expériences Politiques et la Maison Pour Tous vous proposent de découvrir ces outils lors d'une formation qui aura lieu les 20 et 21 mai 2017 !
 
-*Afin de valider la tenue de la formation, merci de vous inscrire **avant le vendredi 21 avril** (les inscriptions resteront ouvertes après cette date).*
-
 ## Une « form'action »
 
 > Cette formation se veut pragmatique et concrète. Elle s'applique à elle même les outils ainsi que les méthodes qu'elle propose et offre aux participants un terrain d'expérimentation sécurisé. Une part essentielle est laissée à la mise en situation réelle durant le stage, l'échange de pratique et l'analyse de votre contexte local. L'objectif est que vous soyiez en mesure de mettre en application effectivement la formation dispensée. Nous nous poserons la question de la mise en œuvre de ces contenus dans votre commune, votre arrondissement, votre quartier tout en identifiant les leviers et obstacles liés à votre contexte local.
@@ -36,6 +34,6 @@ La formation se déroulera sur deux jours complets, les samedi et dimanche 20 et
 
 ## Inscriptions
 
-Les inscriptions se font auprès de la Maison Pour Tous idéalement **avant le vendredi 21 avril**, soit directement à l'accueil de la MJC, soit par téléphone au [04 78 60 64 01](tel:+33478606401), soit par email à [accueil@salledesrancy.com](mailto:accueil@salledesrancy.com).
+Les inscriptions se font auprès de la Maison Pour Tous, soit directement à l'accueil de la MJC, soit par téléphone au [04 78 60 64 01](tel:+33478606401), soit par email à [accueil@salledesrancy.com](mailto:accueil@salledesrancy.com).
 
 *Notez qu'il est important que vous puissiez participer aux deux jours de formation. Également, les places étant limitées, merci de nous prévenir le plus rapidement possible en cas d'annulation de votre part.*
