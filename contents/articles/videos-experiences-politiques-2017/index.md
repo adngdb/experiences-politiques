@@ -45,6 +45,6 @@ C'est au citoyen de faire le politique, et pas à l'élu. Cette idée ancienne r
 
 ## Un grand merci
 
-Pour conclure, j'adresse un grand merci à tous les intervenants de cette semaine, ceux cités précédement ainsi que les associations qui sont venues animer le samedi. Merci à la librarie La Gryffe d'avoir tenu une table de livre tous les soirs. Un grand merci également à Lauriane et Olivier de la Maison Pour Tous pour avoir organisé cette semaine avec moi. Merci à Alex et Solène pour la création des ressources graphique. Et enfin, un grand merci aux bénévoles qui ont aidé au cours de la semaine !
+Pour conclure, j'adresse un grand merci à tous les intervenants de cette semaine, ceux cités précédement ainsi que les associations qui sont venues animer le samedi. Merci à la librarie La Gryffe d'avoir tenu une table de livre tous les soirs. Un grand merci également à Lauriane et Olivier de la Maison Pour Tous pour avoir organisé cette semaine avec moi. Merci à Alexe et Solène pour la création des ressources graphique. Et enfin, un grand merci aux bénévoles qui ont aidé au cours de la semaine !
 
 Et puis un immense merci à toutes celles et ceux qui sont venus à ces Expériences Politiques 2017. On espère vous revoir l'année prochaine !
