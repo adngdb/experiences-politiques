@@ -2,17 +2,59 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expériences Politiques</title>
-    <atom:link href="http://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://experiences-politiques.fr</link>
+    <atom:link href="https://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://experiences-politiques.fr</link>
     <description>Une semaine d'événements autour de la Politique au sens noble</description>
-    <pubDate>Wed, 24 May 2017 02:00:00 +0200</pubDate>
+    <pubDate>Sun, 04 Feb 2018 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>En 2018, le Festival des Alternatives Politiques !</title>
+      <link>https://experiences-politiques.fr/articles/experiences-politiques-2018-les-dates/</link>
+      <pubDate>Sun, 04 Feb 2018 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/experiences-politiques-2018-les-dates/</guid>
+      <author></author>
+      <description>&lt;p&gt;Les Expériences Politiques sont de retour ! Notre semaine sur les alternatives à notre système politique se tiendra du 5 au 10 mars 2018, toujours à la &lt;a href=&quot;http://www.salledesrancy.com/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;. Réservez vos soirées et votre samedi, ça va être festif !&lt;/p&gt;
+&lt;h2 id=&quot;un-festival-prix-libre&quot;&gt;Un Festival à prix libre&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/medias/assets/expepol-2018-affiche.png&quot;&gt;&lt;img class=&quot;image-decoration&quot; src=&quot;/medias/assets/expepol-2018-affiche-small.png&quot; alt=&quot;L'affiche des Expériences Politiques 2018, le Festival des Alternatives Politiques&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;L’accent cette année sera mis sur le convivial, le jovial, le festif. Parce que la politique, c’est avant tout des relations entre les gens d’une société, et les relations, c’est mieux quand ça se passe dans la joie. Il y aura donc cette année moins de conférences et débats, et plus d’ateliers, d’apéros… et un repas partagé le samedi !&lt;/p&gt;
+&lt;p&gt;Autre nouveauté, nous adoptons le prix libre pour toute la semaine. Que cela ne vous rebute pas, l’événement est toujours aussi accessible qu’avant : le prix libre a ceci de formidable qu’il considère que payer zéro euro est tout à fait raisonnable. Il permet simplement à celles et ceux qui souhaitent contribuer financièrement à la réussite et à la pérénité de l’événement, de le faire très simplement. C’est un moyen efficace pour vous de participer, et pour nous de continuer à vous fournir du contenu de qualité chaque année.&lt;/p&gt;
+&lt;h2 id=&quot;militantisme-mon-amour&quot;&gt;Militantisme, mon amour&lt;/h2&gt;
+&lt;p&gt;Le programme est en cours de finalisation, et sera entièrement dévoilé sous peu. Nous pouvons cependant d’ors et déjà annoncer une première soirée : nous aurons le plaisir d’accueillir à nouveau une conférence gesticulée !&lt;/p&gt;
+&lt;p&gt;Mercredi 7 mars, Corinne Lepage viendra nous jouer sa conférence «&amp;nbsp;Militantisme, mon amour. Du collage au décollage&amp;nbsp;», dans le cadre de notre partenariat avec le festival &lt;a href=&quot;https://festiconfslyon.fr/&quot;&gt;Agitons nos idées !!!&lt;/a&gt; Elle sera précédée d’un atelier «&amp;nbsp;Échange et récit des actions militantes&amp;nbsp;», lui aussi animé par Corinne.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«&amp;nbsp;C’est de l’intérieur qu’on peut changer les choses&amp;nbsp;». Soit, puisqu’il fallait s’y frotter, elle allait s’y coller. Alors, elle a adhéré : au travail, au parti, au syndicat. Elle s’est tout coltinée pour lutter de l’intérieur, a même fini par racoler et s’est retrouvée engluée. Rien n’a changé. Ses mots n’étaient pas les leurs et c’est son corps qui le lui a dit. C’est en se décollant, qu’elle a enfin pu militer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+    &lt;iframe src=&quot;https://player.vimeo.com/video/248032922&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;
+    &lt;em&gt;Extrait de la conférence, captation lors du Festival Octobre bouge à Malakoff en 2017&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;au-programme&quot;&gt;Au programme&lt;/h2&gt;
+&lt;section class=&quot;event&quot;&gt;
+    &lt;header&gt;
+        &lt;h2&gt;&lt;span class=&quot;title&quot;&gt;Échange et récit des actions militantes&lt;/span&gt;&lt;/h2&gt;
+        &lt;p class=&quot;infos&quot;&gt;Mercredi 7 mars&lt;/p&gt;
+    &lt;/header&gt;
+    &lt;p class=&quot;summary&quot;&gt;Atelier animé par Corinne Lepage, de 18h à 19h30&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;event&quot;&gt;
+    &lt;header&gt;
+        &lt;h2&gt;&lt;span class=&quot;title&quot;&gt;Militantisme, mon amour. Du collage au décollage&lt;/span&gt;&lt;/h2&gt;
+        &lt;p class=&quot;infos&quot;&gt;Mercredi 7 mars&lt;/p&gt;
+    &lt;/header&gt;
+    &lt;p class=&quot;summary&quot;&gt;Conférence gesticulée de Corinne Lepage, 20h&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p&gt;On revient vers vous très vite pour la suite du programme… Réservez votre semaine !&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Les Vidéos des Expériences Politiques 2017</title>
-      <link>http://experiences-politiques.fr/articles/videos-experiences-politiques-2017/</link>
+      <link>https://experiences-politiques.fr/articles/videos-experiences-politiques-2017/</link>
       <pubDate>Wed, 24 May 2017 02:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/videos-experiences-politiques-2017/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/videos-experiences-politiques-2017/</guid>
       <author></author>
       <description>&lt;p&gt;Vous n’avez pas pu assister aux Expériences Politiques 2017 ? Vous avez raté une soirée que vous teniez à voir ? Vous voulez revoir une intervention que vous avez aimée ? Vous voulez que vos amis puissent eux aussi profiter du contenu de cette incroyable semaine ? Réjouissez-vous : tout a été filmé, et les vidéos sont désormais accessibles en ligne !&lt;/p&gt;
 &lt;h2 id=&quot;exp-riences-politiques-2017&quot;&gt;Expériences Politiques 2017&lt;/h2&gt;
@@ -45,16 +87,16 @@
     </item>
     <item>
       <title>Formation à l'animation de la démocratie locale, par Tristan Rechid</title>
-      <link>http://experiences-politiques.fr/articles/formation-animation-democratie-locale-rechid/</link>
+      <link>https://experiences-politiques.fr/articles/formation-animation-democratie-locale-rechid/</link>
       <pubDate>Fri, 10 Mar 2017 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/formation-animation-democratie-locale-rechid/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/formation-animation-democratie-locale-rechid/</guid>
       <author></author>
       <description>&lt;p&gt;Et si on reprenait notre pouvoir à l’échelle locale ? C’est ce qu’ont fait les habitants de la ville de Saillans, dans la Drôme, en 2014. Depuis, ils expérimentent de nouvelles formes de relations entre citoyens et élus, en s’appuyant notamment sur les outils de l’éducation populaire. Les Expériences Politiques et la Maison Pour Tous vous proposent de découvrir ces outils lors d’une formation qui aura lieu les 20 et 21 mai 2017 !&lt;/p&gt;
 &lt;h2 id=&quot;une-form-action-&quot;&gt;Une « form’action »&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cette formation se veut pragmatique et concrète. Elle s’applique à elle même les outils ainsi que les méthodes qu’elle propose et offre aux participants un terrain d’expérimentation sécurisé. Une part essentielle est laissée à la mise en situation réelle durant le stage, l’échange de pratique et l’analyse de votre contexte local. L’objectif est que vous soyiez en mesure de mettre en application effectivement la formation dispensée. Nous nous poserons la question de la mise en œuvre de ces contenus dans votre commune, votre arrondissement, votre quartier tout en identifiant les leviers et obstacles liés à votre contexte local.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Tristan Rechid, qui est &lt;a href=&quot;http://experiences-politiques.fr/articles/videos-experiences-politiques-2016/#jeudi-10-d-mocratie-participative&quot;&gt;intervenu lors des Expériences Politiques 2016&lt;/a&gt;, est animateur social et membre du Conseil des Sages de Saillans. Il se consacre aujourd’hui à l’accompagnement de l’émergence de 35 885 listes participatives dans les 35 885 communes françaises (à ce jour) pour les élections municipales de 2020.&lt;/p&gt;
+&lt;p&gt;Tristan Rechid, qui est &lt;a href=&quot;https://experiences-politiques.fr/articles/videos-experiences-politiques-2016/#jeudi-10-d-mocratie-participative&quot;&gt;intervenu lors des Expériences Politiques 2016&lt;/a&gt;, est animateur social et membre du Conseil des Sages de Saillans. Il se consacre aujourd’hui à l’accompagnement de l’émergence de 35 885 listes participatives dans les 35 885 communes françaises (à ce jour) pour les élections municipales de 2020.&lt;/p&gt;
 &lt;h2 id=&quot;objectifs-de-la-formation&quot;&gt;Objectifs de la formation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Réfléchir à la question de la démocratie locale, au développement du pouvoir d’agir et à l’appropriation du pouvoir par l’habitant expert de sa situation (expertise d’usage)&lt;/li&gt;
@@ -67,7 +109,7 @@
 &lt;li&gt;Se mettre en situation d’animation dans son contexte local&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;formule&quot;&gt;Formule&lt;/h2&gt;
-&lt;p&gt;La formation se déroulera sur deux jours complets, les samedi et dimanche 20 et 21 mai, et aura lieu à la &lt;a href=&quot;http://experiences-politiques.fr/infos/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;. Elle sera précédée, le vendredi 19 au soir, d’une conférence en accès libre et gratuit. L’accès à la formation est payant : &lt;strong&gt;55€ pour les deux jours&lt;/strong&gt;, dont 5€ d’adhésion obligatoire à la Maison Pour Tous. Le règlement se fera directement auprès de la Maison Pour Tous.&lt;/p&gt;
+&lt;p&gt;La formation se déroulera sur deux jours complets, les samedi et dimanche 20 et 21 mai, et aura lieu à la &lt;a href=&quot;https://experiences-politiques.fr/infos/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;. Elle sera précédée, le vendredi 19 au soir, d’une conférence en accès libre et gratuit. L’accès à la formation est payant : &lt;strong&gt;55€ pour les deux jours&lt;/strong&gt;, dont 5€ d’adhésion obligatoire à la Maison Pour Tous. Le règlement se fera directement auprès de la Maison Pour Tous.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vendredi 19 mai à 19h&lt;/strong&gt; : conférence sur l’expérience de Saillans en introduction à la formation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Samedi 20 mai, de 9h30 à 18h, puis dimanche 21 mai, de 9h à 17h30&lt;/strong&gt; : formation à l’animation de la démocratie locale.&lt;/p&gt;
 &lt;h2 id=&quot;inscriptions&quot;&gt;Inscriptions&lt;/h2&gt;
@@ -77,9 +119,9 @@
     </item>
     <item>
       <title>Construire les intelligences citoyennes, une formation par Tabadol</title>
-      <link>http://experiences-politiques.fr/articles/construire-intelligences-citoyennes-formation-tabadol/</link>
+      <link>https://experiences-politiques.fr/articles/construire-intelligences-citoyennes-formation-tabadol/</link>
       <pubDate>Mon, 27 Feb 2017 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/construire-intelligences-citoyennes-formation-tabadol/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/construire-intelligences-citoyennes-formation-tabadol/</guid>
       <author></author>
       <description>&lt;p&gt;L’association &lt;a href=&quot;http://www.tabadol.org/&quot;&gt;Tabadol&lt;/a&gt; organise les 6, 7 et 8 juin 2017, une formation à la méthode des « intelligences citoyennes ». Conçue par l’éducatrice populaire et philosophe Majo Hansotte, cette méthode permet d’accompagner un groupe dans la réalisation d’actions citoyennes collectives et créatives, en inscrivant des vécus individuels d’injustices dans une démarche collective de transformation sociale.&lt;/p&gt;
 &lt;h2 id=&quot;passer-l-action-citoyenne&quot;&gt;Passer à l‘action citoyenne&lt;/h2&gt;
@@ -93,23 +135,23 @@
     </item>
     <item>
       <title>Atelier « médias et outils d'expression citoyenne » le 8 février</title>
-      <link>http://experiences-politiques.fr/articles/atelier-medias-outils-expression-citoyenne/</link>
+      <link>https://experiences-politiques.fr/articles/atelier-medias-outils-expression-citoyenne/</link>
       <pubDate>Thu, 26 Jan 2017 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/atelier-medias-outils-expression-citoyenne/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/atelier-medias-outils-expression-citoyenne/</guid>
       <author></author>
       <description>&lt;p&gt;La Maison pour Tous des Rancy, en partenariat avec l’association &lt;a href=&quot;http://toutvabienlejournal.org/&quot;&gt;Tout va bien&lt;/a&gt;, propose un atelier Revue de presse «&amp;nbsp;Médias et outils d’expression citoyenne&amp;nbsp;» afin de faire un état des lieux des moyens d’expression et de prise de parole laissés aux citoyens. À travers l’outil médiatique, nous aborderons rapidement la démocratie participative, les &lt;a href=&quot;https://fr.wikipedia.org/wiki/Civic_tech&quot;&gt;&lt;em&gt;civic tech&lt;/em&gt;&lt;/a&gt;, la liberté de la presse et élaborerons collégialement une revue de presse sur le sujet. Celle-ci sera affichée à la Maison pour Tous à l’issue de l’atelier.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/atelier-medias-outils-expression-citoyenne/img/affiche.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Cet atelier permettra de redéfinir ce qu’est l’expression citoyenne et ses outils puis de mener des enquêtes, rechercher des articles et références sur ce sujet. Le rendu de ces recherches sera partagé afin de laisser un espace d’expression et d’information ouvert à tous.&lt;/p&gt;
-&lt;p&gt;L’atelier aura lieu le mercredi 8 février de 18h à 20h à la &lt;a href=&quot;http://experiences-politiques.fr/infos/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;. L’entrée est au prix de 5€ et il est recommandé de réserver soit à l’accueil de la Maison Pour Tous, soit par email à &lt;a href=&quot;mailto:accueil@salledesrancy.com&quot;&gt;accueil@salledesrancy.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Cet atelier est proposé en amont de la semaine &lt;a href=&quot;http://experiences-politiques.fr/programme/&quot;&gt;Expériences politiques&lt;/a&gt; organisée du 6 au 11 mars 2017 par la Maison Pour Tous des Rancy.&lt;/p&gt;
+&lt;p&gt;L’atelier aura lieu le mercredi 8 février de 18h à 20h à la &lt;a href=&quot;https://experiences-politiques.fr/infos/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;. L’entrée est au prix de 5€ et il est recommandé de réserver soit à l’accueil de la Maison Pour Tous, soit par email à &lt;a href=&quot;mailto:accueil@salledesrancy.com&quot;&gt;accueil@salledesrancy.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cet atelier est proposé en amont de la semaine &lt;a href=&quot;https://experiences-politiques.fr/programme/&quot;&gt;Expériences politiques&lt;/a&gt; organisée du 6 au 11 mars 2017 par la Maison Pour Tous des Rancy.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Les Expériences Politiques reviennent en 2017</title>
-      <link>http://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</link>
+      <link>https://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</link>
       <pubDate>Thu, 01 Dec 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/experiences-politiques-2017-les-dates/</guid>
       <author></author>
       <description>&lt;p&gt;Nous avons le plaisir de vous annoncer que les Expériences Politiques seront de retour en 2017, et auront lieu du 6 au 11 mars à la &lt;a href=&quot;http://www.salledesrancy.com/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;au-programme-de-l-dition-2017&quot;&gt;Au programme de l’édition 2017&lt;/h2&gt;
@@ -120,9 +162,9 @@
     </item>
     <item>
       <title>Les Vidéos des Expériences Politiques 2016</title>
-      <link>http://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</link>
+      <link>https://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</link>
       <pubDate>Sat, 21 May 2016 02:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/videos-experiences-politiques-2016/</guid>
       <author></author>
       <description>&lt;p&gt;Vous n’avez pas pu assister aux Expériences Politiques 2016 ? Vous avez raté une soirée que vous teniez à voir ? Vous voulez revoir une intervention que vous avez aimée ? Vous voulez que vos amis puissent eux aussi profiter du contenu de cette incroyable semaine ? Réjouissez-vous : tout a été filmé, et les vidéos sont désormais accessibles en ligne !&lt;/p&gt;
 &lt;h2 id=&quot;exp-riences-politiques-2016&quot;&gt;Expériences Politiques 2016&lt;/h2&gt;
@@ -162,9 +204,9 @@
     </item>
     <item>
       <title>De nouvelles places pour vendredi 11 mars</title>
-      <link>http://experiences-politiques.fr/articles/chouard-testart-acces-libre/</link>
+      <link>https://experiences-politiques.fr/articles/chouard-testart-acces-libre/</link>
       <pubDate>Thu, 10 Mar 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/chouard-testart-acces-libre/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/chouard-testart-acces-libre/</guid>
       <author></author>
       <description>&lt;p&gt;Le débat du vendredi 11 mars entre Etienne Chouard et Jacques Testart dispose désormais d’un bien plus grand nombre de places ! Nous avons obtenu une plus grande salle à la Maison Pour Tous, qui devrait être à même de vous accueillir toutes et tous. &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;Inscrivez-vous&lt;/a&gt; !&lt;/p&gt;
 &lt;hr&gt;
@@ -173,21 +215,10 @@
 </description>
     </item>
     <item>
-      <title>Vendredi 11 mars sur réservation</title>
-      <link>http://experiences-politiques.fr/articles/11-mars-chouard-testart/</link>
-      <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/11-mars-chouard-testart/</guid>
-      <author></author>
-      <description>&lt;p&gt;Le vendredi 11 mars, nous aurons le plaisir de recevoir Etienne Chouard et Jacques Testart pour un débat autour du tirage au sort et des assemblées citoyennes. Cet évènement est sur &lt;strong&gt;réservation obligatoire&lt;/strong&gt;, &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;inscrivez-vous&lt;/a&gt; !&lt;/p&gt;
-&lt;h2 id=&quot;tirage-au-sort-et-d-mocratie&quot;&gt;Tirage au sort et démocratie&lt;/h2&gt;
-&lt;p&gt;Vous trouverez tous les détails sur ce débat dans &lt;a href=&quot;http://experiences-politiques.fr/programme/&quot;&gt;notre programme&lt;/a&gt; ou sur la &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;page eventbrite dédiée&lt;/a&gt; à l’évènement. Il est également possible de réserver en appelant directement la Maison Pour Tous au 04 78 60 64 01. La réservation est gratuite.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>La concertation dans les territoires au service de l'environnement</title>
-      <link>http://experiences-politiques.fr/articles/colloque-concertation-2016/</link>
+      <link>https://experiences-politiques.fr/articles/colloque-concertation-2016/</link>
       <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/colloque-concertation-2016/</guid>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/colloque-concertation-2016/</guid>
       <author></author>
       <description>&lt;p&gt;Les jeudi 10 et vendredi 11 mars 2016, entre trois conférences des Expériences Politiques, se tiendra à Lyon un colloque sur la concertation dans l’environnement.&lt;/p&gt;
 &lt;h2 id=&quot;dialogue-dans-les-territoires&quot;&gt;Dialogue dans les territoires&lt;/h2&gt;
@@ -197,12 +228,23 @@
 </description>
     </item>
     <item>
-      <title>Le site des Expériences Politiques est ouvert !</title>
-      <link>http://experiences-politiques.fr/articles/le-site-est-ouvert/</link>
-      <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://experiences-politiques.fr/articles/le-site-est-ouvert/</guid>
+      <title>Vendredi 11 mars sur réservation</title>
+      <link>https://experiences-politiques.fr/articles/11-mars-chouard-testart/</link>
+      <pubDate>Fri, 26 Feb 2016 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/11-mars-chouard-testart/</guid>
       <author></author>
-      <description>&lt;p&gt;Bienvenue sur le site des Expériences Politiques ! Le &lt;a href=&quot;http://experiences-politiques.fr/programme/&quot;&gt;programme&lt;/a&gt; est disponible, n’hésitez pas à le consulter. Nous espérons vous voir nombreuses et nombreux pour cette première édition des Expériences Politiques. :)&lt;/p&gt;
+      <description>&lt;p&gt;Le vendredi 11 mars, nous aurons le plaisir de recevoir Etienne Chouard et Jacques Testart pour un débat autour du tirage au sort et des assemblées citoyennes. Cet évènement est sur &lt;strong&gt;réservation obligatoire&lt;/strong&gt;, &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;inscrivez-vous&lt;/a&gt; !&lt;/p&gt;
+&lt;h2 id=&quot;tirage-au-sort-et-d-mocratie&quot;&gt;Tirage au sort et démocratie&lt;/h2&gt;
+&lt;p&gt;Vous trouverez tous les détails sur ce débat dans &lt;a href=&quot;https://experiences-politiques.fr/programme/&quot;&gt;notre programme&lt;/a&gt; ou sur la &lt;a href=&quot;https://www.eventbrite.fr/e/billets-tirage-au-sort-et-democratie-experiences-politiques-22163262916&quot;&gt;page eventbrite dédiée&lt;/a&gt; à l’évènement. Il est également possible de réserver en appelant directement la Maison Pour Tous au 04 78 60 64 01. La réservation est gratuite.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Le site des Expériences Politiques est ouvert !</title>
+      <link>https://experiences-politiques.fr/articles/le-site-est-ouvert/</link>
+      <pubDate>Fri, 19 Feb 2016 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/le-site-est-ouvert/</guid>
+      <author></author>
+      <description>&lt;p&gt;Bienvenue sur le site des Expériences Politiques ! Le &lt;a href=&quot;https://experiences-politiques.fr/programme/&quot;&gt;programme&lt;/a&gt; est disponible, n’hésitez pas à le consulter. Nous espérons vous voir nombreuses et nombreux pour cette première édition des Expériences Politiques. :)&lt;/p&gt;
 </description>
     </item>
   </channel>
