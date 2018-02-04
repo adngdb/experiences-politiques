@@ -3,11 +3,11 @@ title: Expériences Politiques
 template: page.jade
 ---
 
-Si les élites ont confisqué la parole politique, reprenons-la ! Les règles du pouvoir politique peuvent être changées, et nombreuses sont les alternatives proposées aujourd'hui. Du contre-pouvoir local au changement complet de système, en passant par l'auto-organisation des citoyens, découvrez ce que les actrices et acteurs de la politique alternative proposent et expérimentent aujourd'hui.
+*Si les élites ont confisqué la parole politique, reprenons-la ! Les règles du pouvoir politique peuvent être changées, et nombreuses sont les alternatives proposées aujourd'hui. Du contre-pouvoir local au changement complet de système, en passant par l'auto-organisation des citoyens, découvrez ce que les actrices et acteurs de la politique alternative proposent et expérimentent aujourd'hui.*
 
-Après le succès de l'édition 2016, les Expériences Politiques reviennent en 2017, du 6 au 11 mars. Chaque soir de semaine, des invités viendront présenter leurs actions, propositions et expérimentations lors de conférences, débats et projections de films. Nous partirons d’un constat, celui de notre système et de ses limites, pour explorer diverses solutions, de celles ancrées dans le système à celles qui en proposent des changements plus ou moins profonds. Puis le samedi 11 se déroulera une journée dédiée à la découverte active des alternatives actuelles, au contact des citoyennes et citoyens qui les nourrissent.
+Pour notre troisième édition, nous faisons de cette semaine le « Festival des Alternatives Politiques » ! Du 5 au 10 mars, nous souhaitons créer un évènement accessible, joyeux, et que vous pourrez vous approprier. Le format de la conférence gesticulée sera de retour, pour notre plus grand plaisir, de même qu'une projection de film engagé. On expérimentera l'apéro civique, et l'atelier-conférence sur l'horizontalité. Et le samedi 10 mars, nous vous invitons à partager un moment convivial autour d'un grand repas partagé ! Pour tous les détails de cette semaine, consultez notre programme.
 
-Cet événement est gratuit, avec certaines soirées à prix libre.
+Pour la première cette année, l'événement est à prix libre. C'est-à-dire que vous choisissez le prix que vous voulez payer pour assister aux animations que nous proposerons. Bien entendu, zéro est un prix raisonnable, et l'événement reste donc tout aussi accessible que les années précédentes (c'est un point auquel nous tenons), mais vous aurez également la possibilité de participer au budget des Expériences Politiques, et des autres activités citoyennes de la Maison Pour Tous.
 
 <section class="info">
     <header>

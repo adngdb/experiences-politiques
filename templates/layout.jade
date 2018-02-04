@@ -1,6 +1,7 @@
 doctype html
 block vars
   - var bodyclass = null;
+  - moment.locale('fr');
 html(lang='en')
   head
     block head
@@ -20,7 +21,8 @@ html(lang='en')
             h1
               a(href=locals.url)
                 img(src='/img/logo.png', alt='Expériences Politiques')
-            p.description du 6 au 11 mars 2017 à Lyon
+            h2 Le Festival des Alternatives Politiques !
+            p.description du 5 au 10 mars 2018 à Lyon
 
     nav.navigation
       div.content-wrap
@@ -34,6 +36,9 @@ html(lang='en')
           li
             a(href='https://www.youtube.com/channel/UCEUIMJkUmY8gANXCTZlmpWQ', title='Les Expériences Politiques sur YouTube')
               img(src='/img/icons/youtube.png', alt='YouTube')
+          li
+            a(href='/feed.xml', title='Suivre les actualités des Expériences Politiques')
+              img(src='/img/icons/feed.png', alt='Flux RSS')
         ul.menuitem
           li
             a(href='/programme/') Programme

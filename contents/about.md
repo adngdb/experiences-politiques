@@ -2,12 +2,11 @@
 view: none
 ---
 
-Les Expériences Politiques &mdash; Du 6 au 11 mars 2017, une semaine autour de la Politique, organisée par la [Maison Pour Tous][1], avec des conférences, des débats, des projections de films, des ateliers…
+Les Expériences Politiques &mdash; Du 5 au 10 mars 2018, une semaine autour de la Politique, organisée par la [Maison Pour Tous][1], avec des conférences, des débats, des projections de films, des ateliers…
 
-Au programme cette année : *Community Organizing*, démocratie au travail, listes citoyennes, revenu de base… Consultez notre [programme en ligne](/programme/) !.
+Au programme cette année : Intelligence collective, féminisme, militantisme, communauté de communes… Et des repas partagés&nbsp;! Consultez notre [programme en ligne](/programme/)&nbsp;!
 
-En partenariat avec la [Bibliothèque Municipale de Lyon][2] et le [festival Lâcher de Gesticules][3].
+En partenariat avec le festival de conférences gesticulées [Agitons nos idées][2].
 
 [1]: http://www.salledesrancy.com/
-[2]: https://www.bm-lyon.fr/nos-blogs/democratie/article/a-propos?lang=fr
-[3]: http://festiconfslyon.fr/
+[2]: http://festiconfslyon.fr/

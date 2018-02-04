@@ -3,6 +3,8 @@ title: Programme 2016
 template: page.jade
 ---
 
+<a class="back-link" href="/archives/">Retours aux&nbsp;archives</a>
+
 <ul class="table-of-content">
     <li><i>Accès rapide : </i></li>
     <li><a href="#7-mars">Lundi 7</a></li>
