@@ -579,6 +579,13 @@ code.lang-markdown .bullet {
   clear: both;
 }
 
+.event .time {
+    display: inline-block;
+    float: left;
+    font-size: 0.7em;
+    height: 100%;
+}
+
 iframe {
   margin-bottom: 20px;
 }
