@@ -57,7 +57,7 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
     </p>
 
     <p>
-        Animé par **Philippe Guelpa-Bonaro**.
+        Animé par **Philippe Guelpa-Bonaro** et d'autres citoyen⋅ne⋅s.
     </p>
 </section>
 
@@ -87,6 +87,8 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
         <b>Corinne Lepage</b> a été tour à tour marxiste révolutionnaire, doctorante en philosophie, adjointe au tourisme et à la culture, représentante du personnel… Un militantisme varié, qu'elle met aujourd'hui au service de l'éducation populaire.
     </p>
 
+    <hr />
+
     <h4>Atelier «&nbsp;Échange et récit des actions militantes&nbsp;»</h4>
 
     <p class="summary">
@@ -102,13 +104,33 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
 
 <section class="event">
     <header>
-        <h2 id="2018-jeudi">Jeudi 8 mars <span class="title">Annonce à venir</span></h2>
+        <div class="speakers">
+            <div>
+                <img src="img/brahem.png" alt="Portrait de Rami Brahem">
+                <span>Rami Brahem</span>
+            </div>
+        </div>
+        <h2 id="2018-jeudi">Jeudi 8 mars <span class="title">Comprendre l’horizontalité, les enjeux politiques et révolutionnaires du 21ème siècle</span></h2>
         <p class="infos">19h00 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">
-        Cet événement sera annoncé d'ici quelques jours.
+        Conférence vivante (2h)
     </p>
+
+    <p>
+        Vers quel système politique et économique se diriger ? Où porter le regard et les espoirs pour le monde de demain ? Qu’est ce que l’horizontalité ? L’intelligence collective et les clés de la synergie ? Qu’en comprendre pour le monde d’aujourd’hui et de demain ? Quelles actions entreprendre ?
+    </p>
+
+    <p>
+        Cette conférence vivante apportera des clés de compréhension autour de la croissance exponentielle du champ de l’auto-organisation et des conclusions que l’on peut tirer de ces expériences concrètes. *Du révolutionnaire au rebelle social*, à la découverte des nouveaux modes de transformation sociale&hellip;
+    </p>
+
+    <p>
+        <b>Rami Brahem</b> revient en France après 7 ans de participation au processus révolutionnaire en Tunisie où il a co-organisé un nombre important d’organisations non hiérarchiques. Il travaille sur le concept d’horizontalité et le champ de l’intelligence collective par l’étude des organisations auto-organisées, une recherche pluri-disciplinaire et une solide expérience de terrain. Il co-créée aujourd’hui un *espace émancipé et émancipateur*, au travers d’une nouvelle forme d’organisation pour coopératives et collectifs.
+    </p>
+
+    <hr />
 
     <h4>Le service civique, une forme d'engagement pour les jeunes de 16 à 25 ans</h4>
 
@@ -127,28 +149,28 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
     <header>
         <div class="speakers">
             <div>
-                <img src="img/brahem.png" alt="Portrait de Rami Brahem">
-                <span>Rami Brahem</span>
-            </div>
-            <div>
-                <img src="img/dumais.png" alt="Portrait de Christophe Dumais">
-                <span>Christophe Dumais</span>
-            </div>
-            <div>
-                <img src="img/pather.png" alt="Portrait de Krishen Pather">
-                <span>Krishen Pather</span>
+                <img src="img/cdric.png" alt="Logo du CDRIC, Centre de Documentation et de Recherche en Intelligence Collective">
+                <span>CDRIC</span>
             </div>
         </div>
-        <h2 id="2018-vendredi">Vendredi 9 mars <span class="title">L'espoir horizontal</span></h2>
+        <h2 id="2018-vendredi">Vendredi 9 mars <span class="title">Vivre une assemblée horizontale</span></h2>
         <p class="infos">19h00 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">
-        Description à venir.
+        Atelier d'assemblée citoyenne horizontale
     </p>
 
     <p>
-        <b>Rami Brahem</b>, <b>Christophe Dumais</b> et <b>Krishen Pather</b> sont formateurs en intelligence collective, et travaillent sur un modèle d'organisation horizontale subversif.
+        Au travers d’une mise en situation, cet atelier permettra de découvrir comment se mettre en accord les uns avec les autres. Mise en situation proposée<sup>1</sup> : Panique au village ! Suite à une panne du climatiseur, tous les responsables politiques sont en grève pour l’été. Malheureusement, il y a une série de problèmes urgent à résoudre et plus personne pour diriger la barque ! Que faire ?
+    </p>
+
+    <p>
+        L’équipe du [**CDRIC**](http://cdric.co/) (*Centre de Documentation et de Recherche en Intelligence Collective*) facilitera et animera une assemblée horizontale où tous seront soumis aux mêmes règles. Équipe de facilitation : Rami Brahem, Christophe Dumais, Krishen Pather, Jeremy Montagny.
+    </p>
+
+    <p>
+        *<sup>1</sup> En fonction des attentes et préférences des participant⋅e⋅s, les mises en situation peuvent être modifiées, voire toucher des sujets concrets ou d’actualité.*
     </p>
 </section>
 
@@ -210,7 +232,7 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
     </h3>
 
     <p>
-        Cycle de 5 conférences de 15 minutes. Les intervenant⋅e⋅s seront disponibles au bar de la MPT après les conférences pour discuter.
+        Cycle de 6 conférences de 15 minutes. Les intervenant⋅e⋅s seront disponibles au bar de la MPT après les conférences pour discuter.
     </p>
 
     <ul>
@@ -229,10 +251,13 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
         <li>
             Une coopérative immobilière : demain, on loge gratis ? (*Robin Corriol*)
         </li>
+        <li>
+            Comment rendre la ville plus mixte, égalitaire et inclusive ? (*Justine Noël*)
+        </li>
     </ul>
 
     <h3>
-        <span class="time">19h</span>
+        <span class="time">19h30</span>
         Apéro partagé
     </h3>
 
