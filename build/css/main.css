@@ -551,6 +551,7 @@ code.lang-markdown .bullet {
   font-weight: bold;
   left: 9em;
   top: -.3em;
+  width: 70%;
 }
 .event header p {
   margin-bottom: 0;
