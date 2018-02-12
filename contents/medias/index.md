@@ -11,14 +11,14 @@ template: page.jade
 
 [Format PNG](assets/expepol-logo.png)
 
-<!--
+
 ## Affiche
 
 [![](assets/expepol-2018-affiche-small.png)](assets/expepol-2018-affiche.png)
 
 [Format PNG](assets/expepol-2018-affiche.png) - [Format PDF](assets/expepol-2018-affiche.pdf)
 
-## Programme
+<!-- ## Programme
 
 [![](assets/expepol-2018-programme-small.png)](assets/expepol-2018-programme.pdf)
 
