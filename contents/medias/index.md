@@ -18,10 +18,10 @@ template: page.jade
 
 [Format PNG](assets/expepol-2018-affiche.png) - [Format PDF](assets/expepol-2018-affiche.pdf)
 
-<!-- ## Programme
+## Programme
 
-[![](assets/expepol-2018-programme-small.png)](assets/expepol-2018-programme.pdf)
+[![](assets/expepol-2018-affiche-small.png)](assets/expepol-2018-programme.pdf)
 
-[Format PDF](assets/expepol-2018-programme.pdf) -->
+[Format PDF](assets/expepol-2018-programme.pdf)
 
 *Voir les [archives](/archives/) pour les ressources des années précédentes.*
