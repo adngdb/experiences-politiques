@@ -237,7 +237,7 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
 
     <ul>
         <li>
-            Découvrez le revenu universel idéal : le R.E.V.E. (*Jean-François Rochas-Parrot*)
+            Découvrez le revenu universel idéal : le R.E.V.E.&nbsp;(*[Les écoloHumanistes](http://lesecolohumanistes.fr/)*)
         </li>
         <li>
             La proposition d'un code du travail alternatif (*Carole Giraudet*)
@@ -263,6 +263,15 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
 
     <p>
         Pour bien finir cette semaine d'expériences politiques, quoi de mieux que de se détendre autour d'un verre ? Merci d'amener quelque chose à boire ou à grignoter afin de rendre ce moment plus convivial !
+    </p>
+
+    <h3>
+        <span class="time">20h30</span>
+        Concert engagé
+    </h3>
+
+    <p>
+        Et pour encore mieux clore cette semaine intense, on vous propose de venir écouter Phosphore, Slamourai et Lexa, membres du [Cercle des Poètes à la Rue](https://fr-fr.facebook.com/Slamicale/), pour un concert de Slam !
     </p>
 
 </section>
