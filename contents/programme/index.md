@@ -3,7 +3,7 @@ title: Programme
 template: page.jade
 ---
 
-Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un débat, une projection ou un atelier. Le samedi 11 mars aura lieu une journée conviviale, avec repas partagé, atelier, mini-conférences, etc.
+Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un débat, une projection ou un atelier. Le samedi 10 mars aura lieu une journée conviviale, avec repas partagé, atelier, mini-conférences, etc.
 
 <hr>
 
@@ -267,11 +267,16 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
 
     <h3>
         <span class="time">20h30</span>
-        Concert engagé
+        Slam et Rap engagés
     </h3>
 
     <p>
-        Et pour encore mieux clore cette semaine intense, on vous propose de venir écouter Phosphore, Slamourai et Lexa, membres du [Cercle des Poètes à la Rue](https://fr-fr.facebook.com/Slamicale/), pour un concert de Slam !
+        Et pour encore mieux clore cette semaine intense, on vous propose de venir écouter Phosphore, Slamourai et Lexa, membres du [Cercle des Poètes à la Rue](https://fr-fr.facebook.com/Slamicale/), pour un concert de Slam, suivis d'un concert de Rap du [groupe ACS](https://www.youtube.com/channel/UC2QAxqDpaYSaJw8nRyKNkyA) !
+    </p>
+
+    <p class="concerts">
+        <a href="https://www.facebook.com/Slamicale/"><img src="./img/slamicale.jpg" alt="SLAMicale" /></a>
+        <a href="https://www.facebook.com/ACSOFFICIEL/"><img src="./img/acs.jpg" alt="ACS" /></a>
     </p>
 
 </section>

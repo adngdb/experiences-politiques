@@ -587,6 +587,15 @@ code.lang-markdown .bullet {
     height: 100%;
 }
 
+.concerts {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.concerts img {
+    border-radius: 200px;
+}
+
 iframe {
   margin-bottom: 20px;
 }
