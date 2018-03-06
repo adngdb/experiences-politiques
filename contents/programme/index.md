@@ -247,16 +247,16 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
             La proposition d'un code du travail alternatif (*Carole Giraudet*)
         </li>
         <li>
-            Introduction à la décroissance (*Baptiste Mylondo*)
-        </li>
-        <li>
             Transformer le travail pour transformer la société ? (*Karine Melzer*)
         </li>
         <li>
-            Une coopérative immobilière : demain, on loge gratis ? (*Robin Corriol*)
+            Le genre dans l'espace public. Comment rendre la ville plus mixte, égalitaire et inclusive ? (*Justine Noël*)
         </li>
         <li>
-            Comment rendre la ville plus mixte, égalitaire et inclusive ? (*Justine Noël*)
+            Introduction à la décroissance (*Baptiste Mylondo*)
+        </li>
+        <li>
+            Une coopérative immobilière : demain, on loge gratis ? (*Robin Corriol*)
         </li>
     </ul>
 
