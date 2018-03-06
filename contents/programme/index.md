@@ -17,7 +17,7 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
     <li><a href="#2018-samedi">Samedi 10</a></li>
 </ul>
 
-*Tous les évènements sont en accès et à prix libre, à l'exception de la soirée du mercredi 8 mars qui est sur réservation, et du Ciné-Animé du samedi 10 mars qui est payant (4€50).*
+*Tous les évènements sont en accès et à prix libre, à l'exception de la soirée du mercredi 7 mars qui est sur réservation, et du Ciné-Animé du samedi 10 mars qui est payant (4€50).*
 
 <hr>
 
@@ -85,6 +85,10 @@ Du lundi 5 mars au vendredi 9 mars, tous les soirs aura lieu une conférence, un
 
     <p>
         <b>Corinne Lepage</b> a été tour à tour marxiste révolutionnaire, doctorante en philosophie, adjointe au tourisme et à la culture, représentante du personnel… Un militantisme varié, qu'elle met aujourd'hui au service de l'éducation populaire.
+    </p>
+
+    <p>
+        <i>Conférence en association avec le [festival de Conférences Gesticulées « Agitons nos idées »](https://festiconfslyon.fr/). Inscriptions sur leur site.</i>
     </p>
 
     <hr />
