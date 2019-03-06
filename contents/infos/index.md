@@ -3,7 +3,7 @@ title: Infos Pratiques
 template: page.jade
 ---
 
-Les Expériences Politiques se dérouleront au 5 au 10 mars 2018 (voir le [Programme](/programme/) pour les détails des horaires) à la [Maison Pour Tous](http://www.salledesrancy.com/).
+Les Expériences Politiques se dérouleront du 1er au 13 avril 2019 (voir le [Programme](/programme/) pour les détails des horaires) à la [Maison Pour Tous](http://www.salledesrancy.com/).
 
 ## Maison Pour Tous - Salle des Rancy
 
