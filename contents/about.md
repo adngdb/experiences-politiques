@@ -2,7 +2,7 @@
 view: none
 ---
 
-Les Expériences Politiques &mdash; Du 1er au 13 avril 2019, deux semaines autour de la Politique, organisée par la [Maison Pour Tous][1], avec des conférences, des débats, des projections de films, des ateliers…
+Les Expériences Politiques &mdash; Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [Maison Pour Tous][1], avec des conférences, des débats, des projections de films, des ateliers…
 
 Au programme cette année : actions locales, désobéissance civile, municipalisme libertaire, tirage au sort… Et bien d'autres choses, le programme sera bientôt disponible !
 

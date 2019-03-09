@@ -5,7 +5,7 @@ date: 2019-03-06
 template: article.jade
 ---
 
-Les Expériences Politiques reviennent, et cette année, sur deux semaines ! Du 1er au 13 avril 2019, la [Maison Pour Tous - Salle des Rancy](http://www.salledesrancy.com/) accueillera conférences gesticulées, débats, projections, ateliers… Préparez-vous pour des soirées intenses !
+Les Expériences Politiques reviennent, et cette année, sur deux semaines ! Du 2 au 13 avril 2019, la [Maison Pour Tous - Salle des Rancy](http://www.salledesrancy.com/) accueillera conférences gesticulées, débats, projections, ateliers… Préparez-vous pour des soirées intenses !
 
 ## Deux conférences gesticulées
 
@@ -41,4 +41,6 @@ Et pour vous mettre l'eau à la bouche sur notre programme, sachez que nous vous
 
 On revient très vite avec un programme complet.
 
-![Expériences Politiques 2019, de la colère à l'imaginaire, du 1er au 13 avril 2019](img/expepol-2019-header.jpg)
+![Expériences Politiques 2019, de la colère à l'imaginaire, du 2 au 13 avril 2019](img/expepol-2019-header.jpg)
+
+*Visuel par [Alexandra Lolivrel](http://www.chezbatlex.net/)*
