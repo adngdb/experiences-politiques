@@ -524,6 +524,7 @@ code.lang-markdown .bullet {
 /* programme */
 .table-of-content {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 0;
   margin: 0;
@@ -531,8 +532,12 @@ code.lang-markdown .bullet {
   width: 100%;
 }
 .table-of-content li {
+  min-width: 14%;
   list-style: none;
   text-align: center;
+}
+.table-of-content.large li {
+  min-width: 16%;
 }
 
 .event {

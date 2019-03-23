@@ -7,12 +7,13 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
 
 <hr>
 
-<ul class="table-of-content">
+<ul class="table-of-content large">
     <li><i>Accès rapide : </i></li>
     <li><a href="#2019-mardi-2">Mardi 2</a></li>
     <li><a href="#2019-mercredi-3">Mercredi 3</a></li>
     <li><a href="#2019-jeudi-4">Jeudi 4</a></li>
     <li><a href="#2019-vendredi-5">Vendredi 5</a></li>
+    <li></li>
     <li><a href="#2019-lundi-8">Lundi 8</a></li>
     <li><a href="#2019-mardi-9">Mardi 9</a></li>
     <li><a href="#2019-mercredi-10">Mercredi 10</a></li>
@@ -34,6 +35,14 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     <p class="summary">
         Débat
     </p>
+
+    <p>
+        Après le lancement de l'antenne SOS Méditerranée Lyon le 16 novembre dernier, venez découvrir les différents acteurs de la mobilisation et comment vous engager.
+    </p>
+
+    <p>
+        Avec SOS MEDITERRANEE France Lyon, Alternatiba ANV Rhône et de nombreuses initiatives citoyennes locales.
+    </p>
 </section>
 
 <hr />
@@ -42,13 +51,17 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     <header>
         <h2 id="2019-mercredi-3">
             Mercredi 3 avril
-            <span class="title">Concentration des pouvoirs / Concentration des richesses</span>
+            <span class="title">Reprendre le pouvoir d’agir d'après Chomsky</span>
         </h2>
         <p class="infos">19h00 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">
-        Forum, reprendre le pouvoir d’agir avec Noam Chomsky
+        Atelier Concentration des pouvoirs / Concentration des richesses
+    </p>
+
+    <p>
+        [Sur inscription](https://framaforms.org/inscription-a-latelier-chomsky-ndeg1-le-304-a-la-mpt-des-rancy-1552831976)
     </p>
 </section>
 
@@ -64,7 +77,7 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     </header>
 
     <p class="summary">
-        Atelier
+        Atelier mensuel proposé à la MPT
     </p>
 </section>
 
@@ -130,6 +143,16 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
 
 <section class="event">
     <header>
+        <div class="speakers">
+            <div>
+                <img src="img/morel-darleux.jpg" alt="Portrait de Corinne Morel Darleux">
+                <span>Corinne Morel Darleux</span>
+            </div>
+            <div>
+                <img src="img/mimmo.jpg" alt="Portrait de Mimmo du CEDRATS">
+                <span>Mimmo du CEDRATS</span>
+            </div>
+        </div>
         <h2 id="2019-lundi-8">
             Lundi 8 avril
             <span class="title">Rojava : À la conquête d'un nouvel imaginaire collectif</span>
@@ -138,7 +161,11 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     </header>
 
     <p class="summary">
-        Conférence
+        Débat
+    </p>
+
+    <p>
+        Pour répondre à l'horreur de la guerre, les habitants du Rojava ont choisi d'expérimenter une nouvelle forme d'organisation politique : le municipalisme libertaire. Partons à la découverte de nouveaux imaginaires collectifs.
     </p>
 </section>
 
@@ -216,6 +243,10 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     <p class="summary">
         Formation à l'action directe Non-Violente
     </p>
+
+    <p>
+        Avec [ANV Action non-violente COP21](https://www.facebook.com/anvcop21/)
+    </p>
 </section>
 
 <hr />
@@ -224,13 +255,21 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     <header>
         <h2 id="2019-vendredi-12">
             Vendredi 12 avril
-            <span class="title">NDDL : les suites</span>
+            <span class="title">Notre-Dame-des-Landes et A45 : les suites</span>
         </h2>
         <p class="infos">18h30 - [Salle des Rancy](/infos/)</p>
     </header>
 
     <p class="summary">
         Conférence
+    </p>
+
+    <p>
+        Quelles suites à Notre-Dame-des-Landes ? État de la lutte et de la mobilisation contre le projet d'autoroute A45, quelles alternatives et initiatives sur le terrain ?
+    </p>
+
+    <p>
+         Avec Jonas Schnyder, membre du fond de dotation de NDDL [La Terre en commun](https://encommun.eco/). Avec la Coordination des Opposants A45 et des paysan⋅ne⋅s.
     </p>
 </section>
 
@@ -251,7 +290,15 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     </h3>
 
     <p>
-        Événement de soutien à la [revue S!lence](http://www.revuesilence.net/), en présence de nombreux acteurs lyonnais de la décroissance.
+        Événement de soutien à la [revue S!lence](http://www.revuesilence.net/).
+    </p>
+
+    <p>
+        La Revue S!lence, basée à Lyon, porte un projet d'écologie sociale et de décroissance soutenable. Discussion publique avec les porteurs d'alternatives locaux et citoyen⋅ne⋅s, sur les pratiques et les stratégies politiques — actuelles ou souhaitables — de l'objection de croissance.
+    </p>
+
+    <p>
+        Avec Revue S!lence, Baptiste Mylondo, Les Décâblés, Les Lucioles et bien d'autres.
     </p>
 
     <h3>
@@ -279,6 +326,10 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
 
     <p>
         Concert de Rap du [groupe ACS](https://www.youtube.com/channel/UC2QAxqDpaYSaJw8nRyKNkyA) !
+    </p>
+
+    <p>
+        ACS pour A Contresens, ce sont deux MC's d'origine marseillaise (Démos & Temsis). Ils expérimentent la plupart des formes actuelles du rap (boom bap, trap, chant...) en les associant à des textes acerbes et militants.
     </p>
 
     <p class="concerts">
