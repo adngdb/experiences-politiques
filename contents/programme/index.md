@@ -269,7 +269,7 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     </p>
 
     <p>
-         Avec Jonas Schnyder, membre du fond de dotation de NDDL [La Terre en commun](https://encommun.eco/). Avec la Coordination des Opposants A45 et des paysan⋅ne⋅s.
+         Avec un membre du fond de dotation de NDDL [La Terre en commun](https://encommun.eco/). Avec la Coordination des Opposants A45 et des paysan⋅ne⋅s.
     </p>
 </section>
 
