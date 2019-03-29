@@ -241,7 +241,7 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
     </header>
 
     <p class="summary">
-        Formation à l'action directe Non-Violente
+        Formation à l'action directe Non-Violente &mdash; **complet !**
     </p>
 
     <p>
