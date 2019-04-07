@@ -303,11 +303,11 @@ Du 2 au 13 avril 2019, deux semaines autour de la Politique, organisée par la [
 
     <h3>
         <span class="time">17h - 20h</span>
-        Urgence sociale et climatique : nouveaux formats de mobilisation
+        Quelle(s) alternative(s) politique(s) <br />à partir des récents mouvements, climat et gilets jaunes
     </h3>
 
     <p>
-        Débat avec notamment des membres des Gilets Jaunes et du Mouvement Climat.
+        Discussion publique avec des membres des Gilets Jaunes et du Mouvement Climat.
     </p>
 
     <h3>
