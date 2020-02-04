@@ -5,9 +5,22 @@
     <atom:link href="https://experiences-politiques.fr/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://experiences-politiques.fr</link>
     <description>Une semaine d'événements autour de la Politique au sens noble</description>
-    <pubDate>Wed, 06 Mar 2019 01:00:00 +0100</pubDate>
+    <pubDate>Tue, 04 Feb 2020 01:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>En 2020, le Festival des Alternatives Politiques revient</title>
+      <link>https://experiences-politiques.fr/articles/experiences-politiques-2020-dates/</link>
+      <pubDate>Tue, 04 Feb 2020 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://experiences-politiques.fr/articles/experiences-politiques-2020-dates/</guid>
+      <author></author>
+      <description>&lt;p&gt;L’équipe des Expériences Politiques a le plaisir de vous annoncer que le &lt;strong&gt;Festival des Alternatives Politiques&lt;/strong&gt; est de retour en 2020. Un peu plus tôt que d’habitude cette fois, afin de tomber avant les élections municipales : le festival se déroulera du 17 au 22 février 2020, toujours à la &lt;a href=&quot;https://experiences-politiques.fr/infos/&quot;&gt;Maison Pour Tous - Salle des Rancy&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Au programme de cette édition : de la prise de décision collective, de l’écologie, des élections municipales, mais également deux beaux moments festifs avec le concert « Radio Bistan » de Reno Bistan, et le spectacle « Le dehors de toute chose », adaptation du romain &lt;em&gt;La Zone du Dehors&lt;/em&gt; d’Alain Damasio.&lt;/p&gt;
+&lt;p&gt;Pour retrouver tous les détails de la semaine, rendez-vous sur le &lt;a href=&quot;https://www.salledesrancy.com/vie-citoyenne/festival-experiences-politiques/&quot;&gt;&lt;strong&gt;Programme du Festival sur le site de la Maison Pour Tous&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.salledesrancy.com/vie-citoyenne/festival-experiences-politiques/&quot;&gt;&lt;img src=&quot;/programme/img/banner-2020.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Édition 2019 : de la colère à un nouvel imaginaire</title>
       <link>https://experiences-politiques.fr/articles/experiences-politiques-2019-colere-imaginaire/</link>
