@@ -5,6 +5,11 @@ template: page.jade
 
 Vous trouverez sur cette page les archives des éditions précédentes.
 
+## 2019
+
+* [Programme](/archives/2019/programme/)
+* [Médias](/archives/2019/medias/)
+
 ## 2018
 
 * [Programme](/archives/2018/programme/)
